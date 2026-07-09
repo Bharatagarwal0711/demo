@@ -215,6 +215,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Bharatagarwal0711/demo/tree/master/0042-trapping-rain-water) |
+| [0338-counting-bits](https://github.com/Bharatagarwal0711/demo/tree/master/0338-counting-bits) |
 ## Stack
 |  |
 | ------- |
@@ -256,6 +257,7 @@ Happy Coding! 🚀
 | [0260-single-number-iii](https://github.com/Bharatagarwal0711/demo/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Bharatagarwal0711/demo/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Bharatagarwal0711/demo/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Bharatagarwal0711/demo/tree/master/0338-counting-bits) |
 ## Queue
 |  |
 | ------- |
