@@ -131,4 +131,20 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Bharatagarwal0711/demo/tree/master/0203-remove-linked-list-elements) |
+## Array
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Bharatagarwal0711/demo/tree/master/0204-count-primes) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Bharatagarwal0711/demo/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Bharatagarwal0711/demo/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Bharatagarwal0711/demo/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
