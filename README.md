@@ -163,6 +163,7 @@ Happy Coding! 🚀
 | ------- |
 | [0204-count-primes](https://github.com/Bharatagarwal0711/demo/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Bharatagarwal0711/demo/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/Bharatagarwal0711/demo/tree/master/0263-ugly-number) |
 ## Enumeration
 |  |
 | ------- |
