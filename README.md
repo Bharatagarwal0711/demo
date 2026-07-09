@@ -193,6 +193,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Bharatagarwal0711/demo/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/Bharatagarwal0711/demo/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -201,4 +202,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Bharatagarwal0711/demo/tree/master/0051-n-queens) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Bharatagarwal0711/demo/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
