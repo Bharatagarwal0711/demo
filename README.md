@@ -14,35 +14,14 @@
 ## 📁 Linked List (12)
 
 <details>
-<summary>View Problems</summary>
+<summary>Show Problems</summary>
 
 | # | Problem | Difficulty |
 |:-:|---------|:----------:|
-| 0021 | Merge Two Sorted Lists | 🟢 Easy |
-| 0061 | Rotate List | 🟡 Medium |
-| 0082 | Remove Duplicates from Sorted List II | 🟡 Medium |
-| 0083 | Remove Duplicates from Sorted List | 🟢 Easy |
-| 0086 | Partition List | 🟡 Medium |
-| 0138 | Copy List with Random Pointer | 🟡 Medium |
-| 0141 | Linked List Cycle | 🟢 Easy |
-| 0142 | Linked List Cycle II | 🟡 Medium |
-| 0143 | Reorder List | 🟡 Medium |
-| 0147 | Insertion Sort List | 🟡 Medium |
-| 0148 | Sort List | 🟡 Medium |
-| 0160 | Intersection of Two Linked Lists | 🟢 Easy |
-
-</details>
-
-## 📁 Arrays (20)
-
-<details>
-<summary>View Problems</summary>
-
-| # | Problem | Difficulty |
-|:-:|---------|:----------:|
-| 0001 | Two Sum | 🟢 Easy |
-| 0011 | Container With Most Water | 🟡 Medium |
-| 0015 | 3Sum | 🟡 Medium |
-| ... | ... | ... |
+| 0021 | Merge Two Sorted Lists | Easy |
+| 0061 | Rotate List | Medium |
+| 0082 | Remove Duplicates from Sorted List II | Medium |
+| 0143 | Reorder List | Medium |
+| 0160 | Intersection of Two Linked Lists | Easy |
 
 </details>
