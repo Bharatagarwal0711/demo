@@ -11,21 +11,30 @@
   📚 <b>Total:</b> 42
 </p>
 
----
+🚀 LeetCode
 
-🚀 Header
+📊 42 Problems Solved
 
-📊 Stats
+━━━━━━━━━━━━━━━━━━
 
-📂 Topics
+📁 Arrays (14)
 
-• Arrays (25)
-• Strings (18)
-• Linked List (22)
-• Trees (40)
-• DP (35)
+📁 Linked List (10)
 
-⭐ Recent Additions
+📁 Binary Search (6)
+
+📁 DP (4)
+
+📁 Graph (3)
+
+📁 Stack (5)
+
+━━━━━━━━━━━━━━━━━━
+
+⭐ Recently Solved
+
 143 Reorder List
+
 147 Insertion Sort List
-151 Reverse Words
+
+151 Reverse Words in a String
