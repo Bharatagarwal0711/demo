@@ -12,3 +12,26 @@
 </p>
 
 ---
+
+## 📚 Linked List (12)
+
+<details>
+<summary>View Problems</summary>
+
+| # | Problem | Solution |
+|---|---------|----------|
+| 0021 | Merge Two Sorted Lists | ✅ |
+| 0061 | Rotate List | ✅ |
+| 0143 | Reorder List | ✅ |
+| 0147 | Insertion Sort List | ✅ |
+
+</details>
+
+## 📚 Arrays (20)
+
+<details>
+<summary>View Problems</summary>
+
+| # | Problem | Solution |
+...
+</details>
