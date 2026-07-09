@@ -1,14 +1,11 @@
 # 🚀 LeetCode Solutions
 
-A collection of my C++ solutions to LeetCode problems with optimal approaches, time complexity, and space complexity.
+> C++ solutions to LeetCode problems with optimal approaches and complexity analysis.
 
-## 📊 Progress
+**Solved:** 42 Problems
 
-| Difficulty | Solved |
-|-----------:|:------:|
-| 🟢 Easy | 17 |
-| 🟡 Medium | 24 |
-| 🔴 Hard | 1 |
-| **Total** | **42** |
+| Easy | Medium | Hard |
+|:---:|:---:|:---:|
+| 🟢 17 | 🟡 24 | 🔴 1 |
 
 ---
