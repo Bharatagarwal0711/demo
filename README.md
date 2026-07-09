@@ -13,25 +13,19 @@
 
 ---
 
-## 📚 Linked List (12)
+🚀 Header
 
-<details>
-<summary>View Problems</summary>
+📊 Stats
 
-| # | Problem | Solution |
-|---|---------|----------|
-| 0021 | Merge Two Sorted Lists | ✅ |
-| 0061 | Rotate List | ✅ |
-| 0143 | Reorder List | ✅ |
-| 0147 | Insertion Sort List | ✅ |
+📂 Topics
 
-</details>
+• Arrays (25)
+• Strings (18)
+• Linked List (22)
+• Trees (40)
+• DP (35)
 
-## 📚 Arrays (20)
-
-<details>
-<summary>View Problems</summary>
-
-| # | Problem | Solution |
-...
-</details>
+⭐ Recent Additions
+143 Reorder List
+147 Insertion Sort List
+151 Reverse Words
