@@ -143,6 +143,7 @@ Happy Coding! 🚀
 | [0018-4sum](https://github.com/Bharatagarwal0711/demo/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/Bharatagarwal0711/demo/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Bharatagarwal0711/demo/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Bharatagarwal0711/demo/tree/master/0049-group-anagrams) |
 | [0204-count-primes](https://github.com/Bharatagarwal0711/demo/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Bharatagarwal0711/demo/tree/master/0217-contains-duplicate) |
 ## Math
@@ -161,16 +162,19 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Bharatagarwal0711/demo/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Bharatagarwal0711/demo/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Bharatagarwal0711/demo/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Bharatagarwal0711/demo/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Bharatagarwal0711/demo/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Bharatagarwal0711/demo/tree/master/0205-isomorphic-strings) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Bharatagarwal0711/demo/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Bharatagarwal0711/demo/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Bharatagarwal0711/demo/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
