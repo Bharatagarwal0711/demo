@@ -165,6 +165,7 @@ Happy Coding! 🚀
 | [0303-range-sum-query-immutable](https://github.com/Bharatagarwal0711/demo/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Bharatagarwal0711/demo/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bharatagarwal0711/demo/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bharatagarwal0711/demo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -191,6 +192,7 @@ Happy Coding! 🚀
 | [0242-valid-anagram](https://github.com/Bharatagarwal0711/demo/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Bharatagarwal0711/demo/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bharatagarwal0711/demo/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bharatagarwal0711/demo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
 |  |
 | ------- |
