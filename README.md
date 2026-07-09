@@ -142,6 +142,7 @@ Happy Coding! 🚀
 | ------- |
 | [0018-4sum](https://github.com/Bharatagarwal0711/demo/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/Bharatagarwal0711/demo/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Bharatagarwal0711/demo/tree/master/0042-trapping-rain-water) |
 | [0204-count-primes](https://github.com/Bharatagarwal0711/demo/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Bharatagarwal0711/demo/tree/master/0217-contains-duplicate) |
 ## Math
@@ -175,4 +176,17 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Bharatagarwal0711/demo/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/Bharatagarwal0711/demo/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Bharatagarwal0711/demo/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Bharatagarwal0711/demo/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Bharatagarwal0711/demo/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
