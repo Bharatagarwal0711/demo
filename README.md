@@ -134,6 +134,7 @@ Happy Coding! 🚀
 | [0206-reverse-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |
