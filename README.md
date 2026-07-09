@@ -159,6 +159,7 @@ Happy Coding! 🚀
 | [0240-search-a-2d-matrix-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Bharatagarwal0711/demo/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Bharatagarwal0711/demo/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Bharatagarwal0711/demo/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
@@ -207,6 +208,7 @@ Happy Coding! 🚀
 | [0042-trapping-rain-water](https://github.com/Bharatagarwal0711/demo/tree/master/0042-trapping-rain-water) |
 | [0148-sort-list](https://github.com/Bharatagarwal0711/demo/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Bharatagarwal0711/demo/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -250,6 +252,7 @@ Happy Coding! 🚀
 | [0231-power-of-two](https://github.com/Bharatagarwal0711/demo/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Bharatagarwal0711/demo/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Bharatagarwal0711/demo/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Bharatagarwal0711/demo/tree/master/0287-find-the-duplicate-number) |
 ## Queue
 |  |
 | ------- |
@@ -263,6 +266,7 @@ Happy Coding! 🚀
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Bharatagarwal0711/demo/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Bharatagarwal0711/demo/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
 | ------- |
