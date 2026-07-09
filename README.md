@@ -147,4 +147,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Bharatagarwal0711/demo/tree/master/0204-count-primes) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/Bharatagarwal0711/demo/tree/master/0205-isomorphic-strings) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/Bharatagarwal0711/demo/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
