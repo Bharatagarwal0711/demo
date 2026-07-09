@@ -155,6 +155,7 @@ Happy Coding! 🚀
 | [0204-count-primes](https://github.com/Bharatagarwal0711/demo/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Bharatagarwal0711/demo/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/Bharatagarwal0711/demo/tree/master/0238-product-of-array-except-self) |
 ## Math
 |  |
 | ------- |
@@ -240,4 +241,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Bharatagarwal0711/demo/tree/master/0232-implement-queue-using-stacks) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Bharatagarwal0711/demo/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
