@@ -141,6 +141,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Bharatagarwal0711/demo/tree/master/0018-4sum) |
+| [0041-first-missing-positive](https://github.com/Bharatagarwal0711/demo/tree/master/0041-first-missing-positive) |
 | [0204-count-primes](https://github.com/Bharatagarwal0711/demo/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Bharatagarwal0711/demo/tree/master/0217-contains-duplicate) |
 ## Math
@@ -158,6 +159,7 @@ Happy Coding! 🚀
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Bharatagarwal0711/demo/tree/master/0041-first-missing-positive) |
 | [0205-isomorphic-strings](https://github.com/Bharatagarwal0711/demo/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Bharatagarwal0711/demo/tree/master/0217-contains-duplicate) |
 ## String
