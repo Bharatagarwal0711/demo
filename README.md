@@ -145,6 +145,7 @@ Happy Coding! 🚀
 | [0042-trapping-rain-water](https://github.com/Bharatagarwal0711/demo/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Bharatagarwal0711/demo/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Bharatagarwal0711/demo/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/Bharatagarwal0711/demo/tree/master/0056-merge-intervals) |
 | [0204-count-primes](https://github.com/Bharatagarwal0711/demo/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Bharatagarwal0711/demo/tree/master/0217-contains-duplicate) |
 ## Math
@@ -176,6 +177,7 @@ Happy Coding! 🚀
 | ------- |
 | [0018-4sum](https://github.com/Bharatagarwal0711/demo/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Bharatagarwal0711/demo/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Bharatagarwal0711/demo/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Bharatagarwal0711/demo/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
