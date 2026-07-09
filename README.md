@@ -127,12 +127,14 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Bharatagarwal0711/demo/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Bharatagarwal0711/demo/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/Bharatagarwal0711/demo/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Bharatagarwal0711/demo/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Bharatagarwal0711/demo/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/Bharatagarwal0711/demo/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/0206-reverse-linked-list) |
 ## Array
