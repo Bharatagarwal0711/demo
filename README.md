@@ -157,6 +157,7 @@ Happy Coding! 🚀
 | [0219-contains-duplicate-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Bharatagarwal0711/demo/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/Bharatagarwal0711/demo/tree/master/0260-single-number-iii) |
 ## Math
 |  |
 | ------- |
@@ -242,6 +243,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Bharatagarwal0711/demo/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/Bharatagarwal0711/demo/tree/master/0260-single-number-iii) |
 ## Queue
 |  |
 | ------- |
