@@ -178,11 +178,13 @@ Happy Coding! 🚀
 | [0205-isomorphic-strings](https://github.com/Bharatagarwal0711/demo/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Bharatagarwal0711/demo/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Bharatagarwal0711/demo/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Bharatagarwal0711/demo/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Bharatagarwal0711/demo/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Bharatagarwal0711/demo/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
@@ -191,6 +193,7 @@ Happy Coding! 🚀
 | [0056-merge-intervals](https://github.com/Bharatagarwal0711/demo/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Bharatagarwal0711/demo/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Bharatagarwal0711/demo/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Bharatagarwal0711/demo/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
