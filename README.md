@@ -160,6 +160,7 @@ Happy Coding! 🚀
 | [0260-single-number-iii](https://github.com/Bharatagarwal0711/demo/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Bharatagarwal0711/demo/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Bharatagarwal0711/demo/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/Bharatagarwal0711/demo/tree/master/0303-range-sum-query-immutable) |
 ## Math
 |  |
 | ------- |
@@ -233,6 +234,7 @@ Happy Coding! 🚀
 | ------- |
 | [0155-min-stack](https://github.com/Bharatagarwal0711/demo/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Bharatagarwal0711/demo/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/Bharatagarwal0711/demo/tree/master/0303-range-sum-query-immutable) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -261,6 +263,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Bharatagarwal0711/demo/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Bharatagarwal0711/demo/tree/master/0303-range-sum-query-immutable) |
 ## Binary Search
 |  |
 | ------- |
