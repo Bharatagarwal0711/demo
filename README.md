@@ -164,6 +164,7 @@ Happy Coding! 🚀
 | [0287-find-the-duplicate-number](https://github.com/Bharatagarwal0711/demo/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Bharatagarwal0711/demo/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Bharatagarwal0711/demo/tree/master/0410-split-array-largest-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Bharatagarwal0711/demo/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -189,6 +190,7 @@ Happy Coding! 🚀
 | [0219-contains-duplicate-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Bharatagarwal0711/demo/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Bharatagarwal0711/demo/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Bharatagarwal0711/demo/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -205,6 +207,7 @@ Happy Coding! 🚀
 | [0217-contains-duplicate](https://github.com/Bharatagarwal0711/demo/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bharatagarwal0711/demo/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Bharatagarwal0711/demo/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Bharatagarwal0711/demo/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
