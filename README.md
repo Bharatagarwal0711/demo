@@ -13,6 +13,8 @@
 
 ## 📁 Linked List (12)
 
+## 📁 Arrays • 15 Problems
+
 <details>
 <summary>Show Problems</summary>
 
