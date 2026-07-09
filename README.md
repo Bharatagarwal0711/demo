@@ -129,6 +129,7 @@ Happy Coding! 🚀
 | [0024-swap-nodes-in-pairs](https://github.com/Bharatagarwal0711/demo/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Bharatagarwal0711/demo/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0092-reverse-linked-list-ii) |
+| [0148-sort-list](https://github.com/Bharatagarwal0711/demo/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Bharatagarwal0711/demo/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/0206-reverse-linked-list) |
 ## Recursion
@@ -179,12 +180,14 @@ Happy Coding! 🚀
 | [0018-4sum](https://github.com/Bharatagarwal0711/demo/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Bharatagarwal0711/demo/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Bharatagarwal0711/demo/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/Bharatagarwal0711/demo/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Bharatagarwal0711/demo/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Bharatagarwal0711/demo/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Bharatagarwal0711/demo/tree/master/0042-trapping-rain-water) |
+| [0148-sort-list](https://github.com/Bharatagarwal0711/demo/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -206,4 +209,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Bharatagarwal0711/demo/tree/master/0155-min-stack) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Bharatagarwal0711/demo/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Bharatagarwal0711/demo/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
