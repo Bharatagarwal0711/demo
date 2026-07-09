@@ -11,30 +11,25 @@
   📚 <b>Total:</b> 42
 </p>
 
-🚀 LeetCode
+## 📚 Linked List (12)
 
-📊 42 Problems Solved
+<details>
+<summary>View Problems</summary>
 
-━━━━━━━━━━━━━━━━━━
+| # | Problem | Solution |
+|---|---------|----------|
+| 0021 | Merge Two Sorted Lists | ✅ |
+| 0061 | Rotate List | ✅ |
+| 0143 | Reorder List | ✅ |
+| 0147 | Insertion Sort List | ✅ |
 
-📁 Arrays (14)
+</details>
 
-📁 Linked List (10)
+## 📚 Arrays (20)
 
-📁 Binary Search (6)
+<details>
+<summary>View Problems</summary>
 
-📁 DP (4)
-
-📁 Graph (3)
-
-📁 Stack (5)
-
-━━━━━━━━━━━━━━━━━━
-
-⭐ Recently Solved
-
-143 Reorder List
-
-147 Insertion Sort List
-
-151 Reverse Words in a String
+| # | Problem | Solution |
+...
+</details>
