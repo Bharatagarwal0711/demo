@@ -139,6 +139,7 @@ Happy Coding! 🚀
 | [0025-reverse-nodes-in-k-group](https://github.com/Bharatagarwal0711/demo/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/Bharatagarwal0711/demo/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Bharatagarwal0711/demo/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -155,6 +156,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Bharatagarwal0711/demo/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Bharatagarwal0711/demo/tree/master/0231-power-of-two) |
 ## Enumeration
 |  |
 | ------- |
@@ -223,4 +225,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0219-contains-duplicate-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Bharatagarwal0711/demo/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
