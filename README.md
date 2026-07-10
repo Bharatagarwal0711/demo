@@ -177,6 +177,7 @@ Happy Coding! 🚀
 | [0622-design-circular-queue](https://github.com/Bharatagarwal0711/demo/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Bharatagarwal0711/demo/tree/master/0641-design-circular-deque) |
 | [0645-set-mismatch](https://github.com/Bharatagarwal0711/demo/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/Bharatagarwal0711/demo/tree/master/0658-find-k-closest-elements) |
 ## Math
 |  |
 | ------- |
@@ -234,6 +235,7 @@ Happy Coding! 🚀
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bharatagarwal0711/demo/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Bharatagarwal0711/demo/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/Bharatagarwal0711/demo/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/Bharatagarwal0711/demo/tree/master/0658-find-k-closest-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -247,6 +249,7 @@ Happy Coding! 🚀
 | [0455-assign-cookies](https://github.com/Bharatagarwal0711/demo/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Bharatagarwal0711/demo/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Bharatagarwal0711/demo/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/Bharatagarwal0711/demo/tree/master/0658-find-k-closest-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -296,6 +299,7 @@ Happy Coding! 🚀
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Bharatagarwal0711/demo/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Bharatagarwal0711/demo/tree/master/0658-find-k-closest-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -327,6 +331,7 @@ Happy Coding! 🚀
 | [0493-reverse-pairs](https://github.com/Bharatagarwal0711/demo/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Bharatagarwal0711/demo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Bharatagarwal0711/demo/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/Bharatagarwal0711/demo/tree/master/0658-find-k-closest-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -360,4 +365,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Bharatagarwal0711/demo/tree/master/0509-fibonacci-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Bharatagarwal0711/demo/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
