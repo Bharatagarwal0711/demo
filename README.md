@@ -188,6 +188,7 @@ Happy Coding! 🚀
 | [0867-transpose-matrix](https://github.com/Bharatagarwal0711/demo/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Bharatagarwal0711/demo/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Bharatagarwal0711/demo/tree/master/0912-sort-an-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Bharatagarwal0711/demo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Math
 |  |
 | ------- |
@@ -355,6 +356,7 @@ Happy Coding! 🚀
 | [0704-binary-search](https://github.com/Bharatagarwal0711/demo/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Bharatagarwal0711/demo/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Bharatagarwal0711/demo/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Bharatagarwal0711/demo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Matrix
 |  |
 | ------- |
