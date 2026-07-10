@@ -19,7 +19,7 @@ public:
 
         fillSieve(arr);
         int count = 0;
-        for(int ele: arr) if(ele) count++;
+        for(bool ele: arr) if(ele) count++;
         return count;
 
     }
