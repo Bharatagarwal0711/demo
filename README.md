@@ -182,6 +182,7 @@ Happy Coding! 🚀
 | [0682-baseball-game](https://github.com/Bharatagarwal0711/demo/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Bharatagarwal0711/demo/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Bharatagarwal0711/demo/tree/master/0724-find-pivot-index) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Bharatagarwal0711/demo/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Math
 |  |
 | ------- |
@@ -339,6 +340,7 @@ Happy Coding! 🚀
 | [0633-sum-of-square-numbers](https://github.com/Bharatagarwal0711/demo/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Bharatagarwal0711/demo/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Bharatagarwal0711/demo/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Bharatagarwal0711/demo/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Matrix
 |  |
 | ------- |
