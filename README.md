@@ -139,6 +139,7 @@ Happy Coding! 🚀
 | [0622-design-circular-queue](https://github.com/Bharatagarwal0711/demo/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Bharatagarwal0711/demo/tree/master/0641-design-circular-deque) |
 | [0725-split-linked-list-in-parts](https://github.com/Bharatagarwal0711/demo/tree/master/0725-split-linked-list-in-parts) |
+| [0876-middle-of-the-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -258,6 +259,7 @@ Happy Coding! 🚀
 | [0567-permutation-in-string](https://github.com/Bharatagarwal0711/demo/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Bharatagarwal0711/demo/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Bharatagarwal0711/demo/tree/master/0658-find-k-closest-elements) |
+| [0876-middle-of-the-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
