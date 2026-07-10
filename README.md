@@ -177,6 +177,7 @@ Happy Coding! 🚀
 | [0231-power-of-two](https://github.com/Bharatagarwal0711/demo/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Bharatagarwal0711/demo/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Bharatagarwal0711/demo/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/Bharatagarwal0711/demo/tree/master/0507-perfect-number) |
 ## Enumeration
 |  |
 | ------- |
