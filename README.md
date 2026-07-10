@@ -184,6 +184,7 @@ Happy Coding! 🚀
 | [0724-find-pivot-index](https://github.com/Bharatagarwal0711/demo/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Bharatagarwal0711/demo/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0861-score-after-flipping-matrix](https://github.com/Bharatagarwal0711/demo/tree/master/0861-score-after-flipping-matrix) |
+| [0867-transpose-matrix](https://github.com/Bharatagarwal0711/demo/tree/master/0867-transpose-matrix) |
 ## Math
 |  |
 | ------- |
@@ -348,6 +349,7 @@ Happy Coding! 🚀
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/Bharatagarwal0711/demo/tree/master/0861-score-after-flipping-matrix) |
+| [0867-transpose-matrix](https://github.com/Bharatagarwal0711/demo/tree/master/0867-transpose-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -386,4 +388,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Bharatagarwal0711/demo/tree/master/0682-baseball-game) |
+| [0867-transpose-matrix](https://github.com/Bharatagarwal0711/demo/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
