@@ -169,6 +169,7 @@ Happy Coding! 🚀
 | [0455-assign-cookies](https://github.com/Bharatagarwal0711/demo/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Bharatagarwal0711/demo/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Bharatagarwal0711/demo/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/Bharatagarwal0711/demo/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -196,6 +197,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/Bharatagarwal0711/demo/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bharatagarwal0711/demo/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bharatagarwal0711/demo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Bharatagarwal0711/demo/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -240,10 +242,12 @@ Happy Coding! 🚀
 | [0155-min-stack](https://github.com/Bharatagarwal0711/demo/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Bharatagarwal0711/demo/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Bharatagarwal0711/demo/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Bharatagarwal0711/demo/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Bharatagarwal0711/demo/tree/master/0496-next-greater-element-i) |
 ## Backtracking
 |  |
 | ------- |
