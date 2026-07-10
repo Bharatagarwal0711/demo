@@ -178,6 +178,7 @@ Happy Coding! 🚀
 | [0641-design-circular-deque](https://github.com/Bharatagarwal0711/demo/tree/master/0641-design-circular-deque) |
 | [0645-set-mismatch](https://github.com/Bharatagarwal0711/demo/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Bharatagarwal0711/demo/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/Bharatagarwal0711/demo/tree/master/0682-baseball-game) |
 ## Math
 |  |
 | ------- |
@@ -266,6 +267,7 @@ Happy Coding! 🚀
 | [0232-implement-queue-using-stacks](https://github.com/Bharatagarwal0711/demo/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Bharatagarwal0711/demo/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Bharatagarwal0711/demo/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -369,4 +371,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Bharatagarwal0711/demo/tree/master/0658-find-k-closest-elements) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Bharatagarwal0711/demo/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
