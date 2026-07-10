@@ -168,6 +168,7 @@ Happy Coding! 🚀
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bharatagarwal0711/demo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Bharatagarwal0711/demo/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Bharatagarwal0711/demo/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Bharatagarwal0711/demo/tree/master/0493-reverse-pairs) |
 ## Math
 |  |
 | ------- |
@@ -256,10 +257,12 @@ Happy Coding! 🚀
 | ------- |
 | [0148-sort-list](https://github.com/Bharatagarwal0711/demo/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/Bharatagarwal0711/demo/tree/master/0493-reverse-pairs) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Bharatagarwal0711/demo/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/Bharatagarwal0711/demo/tree/master/0493-reverse-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -289,6 +292,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/Bharatagarwal0711/demo/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Bharatagarwal0711/demo/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Bharatagarwal0711/demo/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/Bharatagarwal0711/demo/tree/master/0493-reverse-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -306,4 +310,16 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Bharatagarwal0711/demo/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Bharatagarwal0711/demo/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Bharatagarwal0711/demo/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
