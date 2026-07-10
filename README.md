@@ -179,6 +179,7 @@ Happy Coding! 🚀
 | [0645-set-mismatch](https://github.com/Bharatagarwal0711/demo/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Bharatagarwal0711/demo/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Bharatagarwal0711/demo/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/Bharatagarwal0711/demo/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
@@ -334,6 +335,7 @@ Happy Coding! 🚀
 | [0540-single-element-in-a-sorted-array](https://github.com/Bharatagarwal0711/demo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Bharatagarwal0711/demo/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Bharatagarwal0711/demo/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/Bharatagarwal0711/demo/tree/master/0704-binary-search) |
 ## Matrix
 |  |
 | ------- |
