@@ -187,6 +187,7 @@ Happy Coding! 🚀
 | [0507-perfect-number](https://github.com/Bharatagarwal0711/demo/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Bharatagarwal0711/demo/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Bharatagarwal0711/demo/tree/master/0633-sum-of-square-numbers) |
+| [0650-2-keys-keyboard](https://github.com/Bharatagarwal0711/demo/tree/master/0650-2-keys-keyboard) |
 ## Enumeration
 |  |
 | ------- |
@@ -253,6 +254,7 @@ Happy Coding! 🚀
 | [0338-counting-bits](https://github.com/Bharatagarwal0711/demo/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/Bharatagarwal0711/demo/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Bharatagarwal0711/demo/tree/master/0509-fibonacci-number) |
+| [0650-2-keys-keyboard](https://github.com/Bharatagarwal0711/demo/tree/master/0650-2-keys-keyboard) |
 ## Stack
 |  |
 | ------- |
