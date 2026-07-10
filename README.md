@@ -185,6 +185,7 @@ Happy Coding! 🚀
 | [0852-peak-index-in-a-mountain-array](https://github.com/Bharatagarwal0711/demo/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0861-score-after-flipping-matrix](https://github.com/Bharatagarwal0711/demo/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Bharatagarwal0711/demo/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/Bharatagarwal0711/demo/tree/master/0875-koko-eating-bananas) |
 ## Math
 |  |
 | ------- |
@@ -344,6 +345,7 @@ Happy Coding! 🚀
 | [0658-find-k-closest-elements](https://github.com/Bharatagarwal0711/demo/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Bharatagarwal0711/demo/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Bharatagarwal0711/demo/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Bharatagarwal0711/demo/tree/master/0875-koko-eating-bananas) |
 ## Matrix
 |  |
 | ------- |
