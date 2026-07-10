@@ -138,6 +138,7 @@ Happy Coding! 🚀
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0622-design-circular-queue](https://github.com/Bharatagarwal0711/demo/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Bharatagarwal0711/demo/tree/master/0641-design-circular-deque) |
+| [0725-split-linked-list-in-parts](https://github.com/Bharatagarwal0711/demo/tree/master/0725-split-linked-list-in-parts) |
 ## Recursion
 |  |
 | ------- |
