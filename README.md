@@ -180,6 +180,7 @@ Happy Coding! 🚀
 | [0658-find-k-closest-elements](https://github.com/Bharatagarwal0711/demo/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Bharatagarwal0711/demo/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Bharatagarwal0711/demo/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Bharatagarwal0711/demo/tree/master/0724-find-pivot-index) |
 ## Math
 |  |
 | ------- |
@@ -324,6 +325,7 @@ Happy Coding! 🚀
 | [0238-product-of-array-except-self](https://github.com/Bharatagarwal0711/demo/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Bharatagarwal0711/demo/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Bharatagarwal0711/demo/tree/master/0410-split-array-largest-sum) |
+| [0724-find-pivot-index](https://github.com/Bharatagarwal0711/demo/tree/master/0724-find-pivot-index) |
 ## Binary Search
 |  |
 | ------- |
