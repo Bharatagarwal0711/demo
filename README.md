@@ -277,11 +277,13 @@ Happy Coding! 🚀
 | [0234-palindrome-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Bharatagarwal0711/demo/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Bharatagarwal0711/demo/tree/master/0682-baseball-game) |
+| [0901-online-stock-span](https://github.com/Bharatagarwal0711/demo/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Bharatagarwal0711/demo/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Bharatagarwal0711/demo/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/Bharatagarwal0711/demo/tree/master/0901-online-stock-span) |
 ## Backtracking
 |  |
 | ------- |
@@ -294,6 +296,7 @@ Happy Coding! 🚀
 | [0303-range-sum-query-immutable](https://github.com/Bharatagarwal0711/demo/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/Bharatagarwal0711/demo/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Bharatagarwal0711/demo/tree/master/0641-design-circular-deque) |
+| [0901-online-stock-span](https://github.com/Bharatagarwal0711/demo/tree/master/0901-online-stock-span) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -393,4 +396,8 @@ Happy Coding! 🚀
 | ------- |
 | [0682-baseball-game](https://github.com/Bharatagarwal0711/demo/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Bharatagarwal0711/demo/tree/master/0867-transpose-matrix) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Bharatagarwal0711/demo/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
