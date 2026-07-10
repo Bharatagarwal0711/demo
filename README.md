@@ -176,6 +176,7 @@ Happy Coding! 🚀
 | [0540-single-element-in-a-sorted-array](https://github.com/Bharatagarwal0711/demo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0622-design-circular-queue](https://github.com/Bharatagarwal0711/demo/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Bharatagarwal0711/demo/tree/master/0641-design-circular-deque) |
+| [0645-set-mismatch](https://github.com/Bharatagarwal0711/demo/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
@@ -208,6 +209,7 @@ Happy Coding! 🚀
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bharatagarwal0711/demo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Bharatagarwal0711/demo/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Bharatagarwal0711/demo/tree/master/0567-permutation-in-string) |
+| [0645-set-mismatch](https://github.com/Bharatagarwal0711/demo/tree/master/0645-set-mismatch) |
 ## String
 |  |
 | ------- |
@@ -230,6 +232,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/Bharatagarwal0711/demo/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bharatagarwal0711/demo/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Bharatagarwal0711/demo/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/Bharatagarwal0711/demo/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -299,6 +302,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/Bharatagarwal0711/demo/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Bharatagarwal0711/demo/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Bharatagarwal0711/demo/tree/master/0338-counting-bits) |
+| [0645-set-mismatch](https://github.com/Bharatagarwal0711/demo/tree/master/0645-set-mismatch) |
 ## Queue
 |  |
 | ------- |
