@@ -171,6 +171,7 @@ Happy Coding! 🚀
 | [0485-max-consecutive-ones](https://github.com/Bharatagarwal0711/demo/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Bharatagarwal0711/demo/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Bharatagarwal0711/demo/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Bharatagarwal0711/demo/tree/master/0540-single-element-in-a-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -304,6 +305,7 @@ Happy Coding! 🚀
 | [0287-find-the-duplicate-number](https://github.com/Bharatagarwal0711/demo/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Bharatagarwal0711/demo/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Bharatagarwal0711/demo/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Bharatagarwal0711/demo/tree/master/0540-single-element-in-a-sorted-array) |
 ## Matrix
 |  |
 | ------- |
