@@ -147,6 +147,7 @@ Happy Coding! 🚀
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/Bharatagarwal0711/demo/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Bharatagarwal0711/demo/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |
@@ -429,6 +430,7 @@ Happy Coding! 🚀
 | [0682-baseball-game](https://github.com/Bharatagarwal0711/demo/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Bharatagarwal0711/demo/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Bharatagarwal0711/demo/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Bharatagarwal0711/demo/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Data Stream
 |  |
 | ------- |
