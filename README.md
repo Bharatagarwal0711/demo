@@ -203,6 +203,7 @@ Happy Coding! 🚀
 | [1572-matrix-diagonal-sum](https://github.com/Bharatagarwal0711/demo/tree/master/1572-matrix-diagonal-sum) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Bharatagarwal0711/demo/tree/master/2187-minimum-time-to-complete-trips) |
 | [2326-spiral-matrix-iv](https://github.com/Bharatagarwal0711/demo/tree/master/2326-spiral-matrix-iv) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Bharatagarwal0711/demo/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Math
 |  |
 | ------- |
@@ -267,6 +268,7 @@ Happy Coding! 🚀
 | [0658-find-k-closest-elements](https://github.com/Bharatagarwal0711/demo/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Bharatagarwal0711/demo/tree/master/0912-sort-an-array) |
 | [1402-reducing-dishes](https://github.com/Bharatagarwal0711/demo/tree/master/1402-reducing-dishes) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Bharatagarwal0711/demo/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -369,6 +371,7 @@ Happy Coding! 🚀
 | [0410-split-array-largest-sum](https://github.com/Bharatagarwal0711/demo/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/Bharatagarwal0711/demo/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Bharatagarwal0711/demo/tree/master/1480-running-sum-of-1d-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Bharatagarwal0711/demo/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -385,6 +388,7 @@ Happy Coding! 🚀
 | [0875-koko-eating-bananas](https://github.com/Bharatagarwal0711/demo/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Bharatagarwal0711/demo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Bharatagarwal0711/demo/tree/master/2187-minimum-time-to-complete-trips) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Bharatagarwal0711/demo/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -400,6 +404,7 @@ Happy Coding! 🚀
 | [0455-assign-cookies](https://github.com/Bharatagarwal0711/demo/tree/master/0455-assign-cookies) |
 | [0861-score-after-flipping-matrix](https://github.com/Bharatagarwal0711/demo/tree/master/0861-score-after-flipping-matrix) |
 | [1402-reducing-dishes](https://github.com/Bharatagarwal0711/demo/tree/master/1402-reducing-dishes) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Bharatagarwal0711/demo/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Depth-First Search
 |  |
 | ------- |
