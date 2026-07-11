@@ -141,6 +141,7 @@ Happy Coding! 🚀
 | [0725-split-linked-list-in-parts](https://github.com/Bharatagarwal0711/demo/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bharatagarwal0711/demo/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1669-merge-in-between-linked-lists](https://github.com/Bharatagarwal0711/demo/tree/master/1669-merge-in-between-linked-lists) |
 ## Recursion
 |  |
 | ------- |
