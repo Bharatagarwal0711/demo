@@ -200,6 +200,7 @@ Happy Coding! 🚀
 | [1402-reducing-dishes](https://github.com/Bharatagarwal0711/demo/tree/master/1402-reducing-dishes) |
 | [1480-running-sum-of-1d-array](https://github.com/Bharatagarwal0711/demo/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Bharatagarwal0711/demo/tree/master/1572-matrix-diagonal-sum) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Bharatagarwal0711/demo/tree/master/2187-minimum-time-to-complete-trips) |
 ## Math
 |  |
 | ------- |
@@ -381,6 +382,7 @@ Happy Coding! 🚀
 | [0852-peak-index-in-a-mountain-array](https://github.com/Bharatagarwal0711/demo/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Bharatagarwal0711/demo/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Bharatagarwal0711/demo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Bharatagarwal0711/demo/tree/master/2187-minimum-time-to-complete-trips) |
 ## Matrix
 |  |
 | ------- |
