@@ -204,6 +204,7 @@ Happy Coding! 🚀
 | [2187-minimum-time-to-complete-trips](https://github.com/Bharatagarwal0711/demo/tree/master/2187-minimum-time-to-complete-trips) |
 | [2326-spiral-matrix-iv](https://github.com/Bharatagarwal0711/demo/tree/master/2326-spiral-matrix-iv) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Bharatagarwal0711/demo/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Bharatagarwal0711/demo/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 ## Math
 |  |
 | ------- |
@@ -357,6 +358,7 @@ Happy Coding! 🚀
 | [0338-counting-bits](https://github.com/Bharatagarwal0711/demo/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/Bharatagarwal0711/demo/tree/master/0645-set-mismatch) |
 | [0861-score-after-flipping-matrix](https://github.com/Bharatagarwal0711/demo/tree/master/0861-score-after-flipping-matrix) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Bharatagarwal0711/demo/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 ## Queue
 |  |
 | ------- |
@@ -458,4 +460,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Bharatagarwal0711/demo/tree/master/0912-sort-an-array) |
+## Brainteaser
+|  |
+| ------- |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Bharatagarwal0711/demo/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
