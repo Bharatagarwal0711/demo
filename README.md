@@ -140,6 +140,7 @@ Happy Coding! 🚀
 | [0641-design-circular-deque](https://github.com/Bharatagarwal0711/demo/tree/master/0641-design-circular-deque) |
 | [0725-split-linked-list-in-parts](https://github.com/Bharatagarwal0711/demo/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bharatagarwal0711/demo/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -201,6 +202,7 @@ Happy Coding! 🚀
 | [0633-sum-of-square-numbers](https://github.com/Bharatagarwal0711/demo/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/Bharatagarwal0711/demo/tree/master/0650-2-keys-keyboard) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Bharatagarwal0711/demo/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bharatagarwal0711/demo/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Enumeration
 |  |
 | ------- |
