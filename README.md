@@ -208,6 +208,7 @@ Happy Coding! 🚀
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Bharatagarwal0711/demo/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Bharatagarwal0711/demo/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bharatagarwal0711/demo/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2614-prime-in-diagonal](https://github.com/Bharatagarwal0711/demo/tree/master/2614-prime-in-diagonal) |
 ## Math
 |  |
 | ------- |
@@ -223,6 +224,7 @@ Happy Coding! 🚀
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bharatagarwal0711/demo/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Bharatagarwal0711/demo/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bharatagarwal0711/demo/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2614-prime-in-diagonal](https://github.com/Bharatagarwal0711/demo/tree/master/2614-prime-in-diagonal) |
 ## Enumeration
 |  |
 | ------- |
@@ -233,6 +235,7 @@ Happy Coding! 🚀
 | [0204-count-primes](https://github.com/Bharatagarwal0711/demo/tree/master/0204-count-primes) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Bharatagarwal0711/demo/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bharatagarwal0711/demo/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2614-prime-in-diagonal](https://github.com/Bharatagarwal0711/demo/tree/master/2614-prime-in-diagonal) |
 ## Hash Table
 |  |
 | ------- |
@@ -411,6 +414,7 @@ Happy Coding! 🚀
 | [0867-transpose-matrix](https://github.com/Bharatagarwal0711/demo/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Bharatagarwal0711/demo/tree/master/1572-matrix-diagonal-sum) |
 | [2326-spiral-matrix-iv](https://github.com/Bharatagarwal0711/demo/tree/master/2326-spiral-matrix-iv) |
+| [2614-prime-in-diagonal](https://github.com/Bharatagarwal0711/demo/tree/master/2614-prime-in-diagonal) |
 ## Greedy
 |  |
 | ------- |
