@@ -253,6 +253,7 @@ Happy Coding! 🚀
 | [0567-permutation-in-string](https://github.com/Bharatagarwal0711/demo/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Bharatagarwal0711/demo/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Bharatagarwal0711/demo/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Bharatagarwal0711/demo/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Sorting
 |  |
 | ------- |
@@ -374,6 +375,7 @@ Happy Coding! 🚀
 | [0724-find-pivot-index](https://github.com/Bharatagarwal0711/demo/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Bharatagarwal0711/demo/tree/master/1480-running-sum-of-1d-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Bharatagarwal0711/demo/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Bharatagarwal0711/demo/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Binary Search
 |  |
 | ------- |
