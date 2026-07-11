@@ -192,6 +192,7 @@ Happy Coding! 🚀
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Bharatagarwal0711/demo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1402-reducing-dishes](https://github.com/Bharatagarwal0711/demo/tree/master/1402-reducing-dishes) |
 | [1480-running-sum-of-1d-array](https://github.com/Bharatagarwal0711/demo/tree/master/1480-running-sum-of-1d-array) |
+| [1572-matrix-diagonal-sum](https://github.com/Bharatagarwal0711/demo/tree/master/1572-matrix-diagonal-sum) |
 ## Math
 |  |
 | ------- |
@@ -373,6 +374,7 @@ Happy Coding! 🚀
 | [0240-search-a-2d-matrix-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/Bharatagarwal0711/demo/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Bharatagarwal0711/demo/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/Bharatagarwal0711/demo/tree/master/1572-matrix-diagonal-sum) |
 ## Greedy
 |  |
 | ------- |
