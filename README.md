@@ -148,6 +148,7 @@ Happy Coding! 🚀
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Bharatagarwal0711/demo/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2326-spiral-matrix-iv](https://github.com/Bharatagarwal0711/demo/tree/master/2326-spiral-matrix-iv) |
 ## Recursion
 |  |
 | ------- |
@@ -201,6 +202,7 @@ Happy Coding! 🚀
 | [1480-running-sum-of-1d-array](https://github.com/Bharatagarwal0711/demo/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Bharatagarwal0711/demo/tree/master/1572-matrix-diagonal-sum) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Bharatagarwal0711/demo/tree/master/2187-minimum-time-to-complete-trips) |
+| [2326-spiral-matrix-iv](https://github.com/Bharatagarwal0711/demo/tree/master/2326-spiral-matrix-iv) |
 ## Math
 |  |
 | ------- |
@@ -390,6 +392,7 @@ Happy Coding! 🚀
 | [0861-score-after-flipping-matrix](https://github.com/Bharatagarwal0711/demo/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Bharatagarwal0711/demo/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Bharatagarwal0711/demo/tree/master/1572-matrix-diagonal-sum) |
+| [2326-spiral-matrix-iv](https://github.com/Bharatagarwal0711/demo/tree/master/2326-spiral-matrix-iv) |
 ## Greedy
 |  |
 | ------- |
@@ -433,6 +436,7 @@ Happy Coding! 🚀
 | [0867-transpose-matrix](https://github.com/Bharatagarwal0711/demo/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Bharatagarwal0711/demo/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Bharatagarwal0711/demo/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2326-spiral-matrix-iv](https://github.com/Bharatagarwal0711/demo/tree/master/2326-spiral-matrix-iv) |
 ## Data Stream
 |  |
 | ------- |
