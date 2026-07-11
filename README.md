@@ -200,6 +200,7 @@ Happy Coding! 🚀
 | [0509-fibonacci-number](https://github.com/Bharatagarwal0711/demo/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Bharatagarwal0711/demo/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/Bharatagarwal0711/demo/tree/master/0650-2-keys-keyboard) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Bharatagarwal0711/demo/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Enumeration
 |  |
 | ------- |
