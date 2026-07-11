@@ -209,6 +209,7 @@ Happy Coding! 🚀
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Bharatagarwal0711/demo/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bharatagarwal0711/demo/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2614-prime-in-diagonal](https://github.com/Bharatagarwal0711/demo/tree/master/2614-prime-in-diagonal) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Bharatagarwal0711/demo/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 ## Math
 |  |
 | ------- |
@@ -389,6 +390,7 @@ Happy Coding! 🚀
 | [1480-running-sum-of-1d-array](https://github.com/Bharatagarwal0711/demo/tree/master/1480-running-sum-of-1d-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Bharatagarwal0711/demo/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Bharatagarwal0711/demo/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Bharatagarwal0711/demo/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
