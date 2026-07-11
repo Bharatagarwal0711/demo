@@ -8,15 +8,16 @@ public:
             if(temp->child){
                 Node* nxt = temp->next;
                 temp->next = flatten(temp->child);
-                temp->next->prev = temp;
-
                 temp->child = NULL;
+
+                temp->next->prev = temp;
 
                 while(temp->next) temp = temp->next;
                 temp->next = nxt;
-                if(nxt) nxt->prev = temp;
+                if(nxt) nxt->prev  = temp;
 
                 temp = nxt;
+
             }
             if(temp) temp = temp->next;
         }
