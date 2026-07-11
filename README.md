@@ -242,6 +242,7 @@ Happy Coding! 🚀
 | [0520-detect-capital](https://github.com/Bharatagarwal0711/demo/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Bharatagarwal0711/demo/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Bharatagarwal0711/demo/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Bharatagarwal0711/demo/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -294,6 +295,7 @@ Happy Coding! 🚀
 | [0682-baseball-game](https://github.com/Bharatagarwal0711/demo/tree/master/0682-baseball-game) |
 | [0901-online-stock-span](https://github.com/Bharatagarwal0711/demo/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Bharatagarwal0711/demo/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Bharatagarwal0711/demo/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -419,6 +421,7 @@ Happy Coding! 🚀
 | ------- |
 | [0682-baseball-game](https://github.com/Bharatagarwal0711/demo/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Bharatagarwal0711/demo/tree/master/0867-transpose-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Bharatagarwal0711/demo/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Data Stream
 |  |
 | ------- |
