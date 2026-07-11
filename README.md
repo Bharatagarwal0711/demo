@@ -207,6 +207,7 @@ Happy Coding! 🚀
 | [2326-spiral-matrix-iv](https://github.com/Bharatagarwal0711/demo/tree/master/2326-spiral-matrix-iv) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Bharatagarwal0711/demo/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Bharatagarwal0711/demo/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bharatagarwal0711/demo/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Math
 |  |
 | ------- |
@@ -221,6 +222,7 @@ Happy Coding! 🚀
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Bharatagarwal0711/demo/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bharatagarwal0711/demo/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Bharatagarwal0711/demo/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bharatagarwal0711/demo/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -230,6 +232,7 @@ Happy Coding! 🚀
 | ------- |
 | [0204-count-primes](https://github.com/Bharatagarwal0711/demo/tree/master/0204-count-primes) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Bharatagarwal0711/demo/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bharatagarwal0711/demo/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -245,6 +248,7 @@ Happy Coding! 🚀
 | [0496-next-greater-element-i](https://github.com/Bharatagarwal0711/demo/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Bharatagarwal0711/demo/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Bharatagarwal0711/demo/tree/master/0645-set-mismatch) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bharatagarwal0711/demo/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## String
 |  |
 | ------- |
