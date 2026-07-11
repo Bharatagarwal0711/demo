@@ -233,6 +233,7 @@ Happy Coding! 🚀
 | [0443-string-compression](https://github.com/Bharatagarwal0711/demo/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Bharatagarwal0711/demo/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Bharatagarwal0711/demo/tree/master/0567-permutation-in-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Bharatagarwal0711/demo/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -281,6 +282,7 @@ Happy Coding! 🚀
 | [0496-next-greater-element-i](https://github.com/Bharatagarwal0711/demo/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Bharatagarwal0711/demo/tree/master/0682-baseball-game) |
 | [0901-online-stock-span](https://github.com/Bharatagarwal0711/demo/tree/master/0901-online-stock-span) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Bharatagarwal0711/demo/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
