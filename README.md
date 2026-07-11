@@ -210,6 +210,7 @@ Happy Coding! 🚀
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bharatagarwal0711/demo/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2614-prime-in-diagonal](https://github.com/Bharatagarwal0711/demo/tree/master/2614-prime-in-diagonal) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Bharatagarwal0711/demo/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/Bharatagarwal0711/demo/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
@@ -226,6 +227,7 @@ Happy Coding! 🚀
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Bharatagarwal0711/demo/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bharatagarwal0711/demo/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2614-prime-in-diagonal](https://github.com/Bharatagarwal0711/demo/tree/master/2614-prime-in-diagonal) |
+| [2965-find-missing-and-repeated-values](https://github.com/Bharatagarwal0711/demo/tree/master/2965-find-missing-and-repeated-values) |
 ## Enumeration
 |  |
 | ------- |
@@ -253,6 +255,7 @@ Happy Coding! 🚀
 | [0567-permutation-in-string](https://github.com/Bharatagarwal0711/demo/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Bharatagarwal0711/demo/tree/master/0645-set-mismatch) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bharatagarwal0711/demo/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/Bharatagarwal0711/demo/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -417,6 +420,7 @@ Happy Coding! 🚀
 | [1572-matrix-diagonal-sum](https://github.com/Bharatagarwal0711/demo/tree/master/1572-matrix-diagonal-sum) |
 | [2326-spiral-matrix-iv](https://github.com/Bharatagarwal0711/demo/tree/master/2326-spiral-matrix-iv) |
 | [2614-prime-in-diagonal](https://github.com/Bharatagarwal0711/demo/tree/master/2614-prime-in-diagonal) |
+| [2965-find-missing-and-repeated-values](https://github.com/Bharatagarwal0711/demo/tree/master/2965-find-missing-and-repeated-values) |
 ## Greedy
 |  |
 | ------- |
