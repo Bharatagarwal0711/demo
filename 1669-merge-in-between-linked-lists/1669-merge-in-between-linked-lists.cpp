@@ -18,7 +18,7 @@ public:
         while(temp->next) temp = temp->next;
         temp->next = nxt;
 
-        if(before == NULL) return list2;
+        if(a == 0) return list2;
         before->next = list2;
         return list1;
 
