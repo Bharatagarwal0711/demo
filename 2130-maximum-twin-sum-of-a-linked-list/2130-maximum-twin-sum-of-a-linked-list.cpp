@@ -18,7 +18,7 @@ public:
 
     int pairSum(ListNode* head) {
         ListNode* slow = head, *fast = head, *prev = head;
-        int ans = INT_MIN;
+        int ans = 0;
 
         while(fast){
             prev = slow;
