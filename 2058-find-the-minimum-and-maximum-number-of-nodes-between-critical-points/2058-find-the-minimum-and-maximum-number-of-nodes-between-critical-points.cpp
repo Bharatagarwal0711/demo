@@ -4,7 +4,7 @@ public:
 
         vector<int> ans(2,-1);
         vector<int> points;
-        int idx = 2;
+        int idx = 1;
         ListNode* curr = head->next;
         ListNode* prev = head;
         ListNode* nxt = head->next;
@@ -22,7 +22,7 @@ public:
             curr = nxt;
 
         }
-        if(points.size()<2) return ans;
+        if(points.size() < 2) return ans;
 
         ans[1] = points[points.size()-1] - points[0];
         ans[0] = INT_MAX;
