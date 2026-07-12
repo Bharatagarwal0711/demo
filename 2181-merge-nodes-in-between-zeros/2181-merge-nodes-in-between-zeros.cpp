@@ -12,10 +12,10 @@ public:
                 sum += start->val;
                 start = start->next;
             }
-            if(start){
-                if(start->next == NULL) temp->next = NULL;
-                start = start->next;
-            }
+            
+            if(start->next == NULL) temp->next = NULL;
+            start = start->next;
+            
             temp->val = sum;
             temp = temp->next;
         }
