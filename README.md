@@ -432,6 +432,7 @@ Happy Coding! 🚀
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0100-same-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0543-diameter-of-binary-tree) |
 ## Doubly-Linked List
@@ -491,9 +492,15 @@ Happy Coding! 🚀
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0100-same-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0100-same-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0543-diameter-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
