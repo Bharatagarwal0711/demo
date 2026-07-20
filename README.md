@@ -433,6 +433,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0543-diameter-of-binary-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0543-diameter-of-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -487,4 +488,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Bharatagarwal0711/demo/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
