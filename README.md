@@ -320,6 +320,7 @@ Happy Coding! 🚀
 | [0042-trapping-rain-water](https://github.com/Bharatagarwal0711/demo/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bharatagarwal0711/demo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bharatagarwal0711/demo/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Bharatagarwal0711/demo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Bharatagarwal0711/demo/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Bharatagarwal0711/demo/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/0234-palindrome-linked-list) |
@@ -441,6 +442,7 @@ Happy Coding! 🚀
 | [0101-symmetric-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bharatagarwal0711/demo/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Bharatagarwal0711/demo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Bharatagarwal0711/demo/tree/master/0257-binary-tree-paths) |
@@ -508,6 +510,7 @@ Happy Coding! 🚀
 | [0101-symmetric-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bharatagarwal0711/demo/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Bharatagarwal0711/demo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Bharatagarwal0711/demo/tree/master/0257-binary-tree-paths) |
@@ -520,6 +523,7 @@ Happy Coding! 🚀
 | [0101-symmetric-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bharatagarwal0711/demo/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Bharatagarwal0711/demo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Bharatagarwal0711/demo/tree/master/0257-binary-tree-paths) |
