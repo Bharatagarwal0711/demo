@@ -262,6 +262,7 @@ Happy Coding! 🚀
 | [0049-group-anagrams](https://github.com/Bharatagarwal0711/demo/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Bharatagarwal0711/demo/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Bharatagarwal0711/demo/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Bharatagarwal0711/demo/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Bharatagarwal0711/demo/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Bharatagarwal0711/demo/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Bharatagarwal0711/demo/tree/master/0520-detect-capital) |
@@ -338,6 +339,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Bharatagarwal0711/demo/tree/master/0051-n-queens) |
+| [0257-binary-tree-paths](https://github.com/Bharatagarwal0711/demo/tree/master/0257-binary-tree-paths) |
 ## Design
 |  |
 | ------- |
@@ -434,6 +436,7 @@ Happy Coding! 🚀
 | ------- |
 | [0100-same-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Bharatagarwal0711/demo/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0543-diameter-of-binary-tree) |
 ## Doubly-Linked List
@@ -495,12 +498,14 @@ Happy Coding! 🚀
 | ------- |
 | [0100-same-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Bharatagarwal0711/demo/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Bharatagarwal0711/demo/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
