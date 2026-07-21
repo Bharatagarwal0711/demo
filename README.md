@@ -436,6 +436,7 @@ Happy Coding! 🚀
 | ------- |
 | [0100-same-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Bharatagarwal0711/demo/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0543-diameter-of-binary-tree) |
@@ -498,6 +499,7 @@ Happy Coding! 🚀
 | ------- |
 | [0100-same-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Bharatagarwal0711/demo/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
@@ -505,6 +507,7 @@ Happy Coding! 🚀
 | ------- |
 | [0100-same-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Bharatagarwal0711/demo/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
