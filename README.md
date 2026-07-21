@@ -318,6 +318,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Bharatagarwal0711/demo/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Bharatagarwal0711/demo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/Bharatagarwal0711/demo/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Bharatagarwal0711/demo/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/0234-palindrome-linked-list) |
@@ -434,6 +435,7 @@ Happy Coding! 🚀
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Bharatagarwal0711/demo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0110-balanced-binary-tree) |
@@ -499,6 +501,7 @@ Happy Coding! 🚀
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Bharatagarwal0711/demo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0110-balanced-binary-tree) |
@@ -509,6 +512,7 @@ Happy Coding! 🚀
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Bharatagarwal0711/demo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Bharatagarwal0711/demo/tree/master/0110-balanced-binary-tree) |
