@@ -13,20 +13,20 @@ public:
         q.push(root);
 
         while(!q.empty()){
+            
+            int size = q.size();
 
             vector<int> v;
-            queue<TreeNode*> temp;
 
-            while(!q.empty()){
+            while(size){
                 v.push_back(q.front()->val);
-                if(q.front()->left != NULL) temp.push(q.front()->left);
-                if(q.front()->right != NULL) temp.push(q.front()->right);
+                if(q.front()->left != NULL) q.push(q.front()->left);
+                if(q.front()->right != NULL) q.push(q.front()->right);
 
                 q.pop();
+                size--;
             }
             if(v.size()>0) ans.push_back(v);
-
-            q = temp;
 
         }
 
