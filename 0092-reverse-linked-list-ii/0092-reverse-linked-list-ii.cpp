@@ -44,7 +44,6 @@ public:
             temp = temp->next;
         }
         
-        if(a) a->next = NULL;
         c->next = NULL;
         c = reverseList(b);
         if(a) a->next = c;
