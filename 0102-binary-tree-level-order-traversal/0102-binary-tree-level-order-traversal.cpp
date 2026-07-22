@@ -1,41 +1,35 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
-
-    int levels(TreeNode* root){
-        if(root == NULL) return 0;
-        return 1 + max(levels(root->left),levels(root->right));
+    vector<vector<int>> levelOrder(TreeNode* root) {
+        vector<vector<int>> ans;
+        helper(root,ans);
+        return ans;
     }
+    void helper(TreeNode* root, vector<vector<int>> &ans){
 
-    void nthLevel(TreeNode* root,int currLevel,int level,vector<vector<int>> &ans){
         if(root == NULL) return;
-        if(currLevel == level){
-            ans[currLevel].push_back(root->val);
+
+        queue<TreeNode*> q;
+        q.push(root);
+
+        while(!q.empty()){
+
+            vector<int> v;
+            queue<TreeNode*> temp;
+
+            while(!q.empty()){
+                v.push_back(q.front()->val);
+                if(q.front()->left != NULL) temp.push(q.front()->left);
+                if(q.front()->right != NULL) temp.push(q.front()->right);
+
+                q.pop();
+            }
+            if(v.size()>0) ans.push_back(v);
+
+            q = temp;
+
         }
 
-        nthLevel(root->left,currLevel+1,level,ans);
-        nthLevel(root->right,currLevel+1,level,ans);
-    }
 
-
-    vector<vector<int>> levelOrder(TreeNode* root) {
-        int n = levels(root);
-        vector<vector<int>> ans(n);
-        if(n == 0) return ans;
-
-        for(int i=0;i<n;i++)   nthLevel(root,0,i,ans);
-        
-
-        return ans;
     }
 };
