@@ -126,6 +126,7 @@ Happy Coding! 🚀
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Bharatagarwal0711/demo/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Bharatagarwal0711/demo/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Bharatagarwal0711/demo/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0092-reverse-linked-list-ii) |
@@ -153,6 +154,7 @@ Happy Coding! 🚀
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Bharatagarwal0711/demo/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Bharatagarwal0711/demo/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Bharatagarwal0711/demo/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/Bharatagarwal0711/demo/tree/master/0203-remove-linked-list-elements) |
