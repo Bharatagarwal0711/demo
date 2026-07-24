@@ -141,6 +141,7 @@ Happy Coding! 🚀
 | [0641-design-circular-deque](https://github.com/Bharatagarwal0711/demo/tree/master/0641-design-circular-deque) |
 | [0725-split-linked-list-in-parts](https://github.com/Bharatagarwal0711/demo/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bharatagarwal0711/demo/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/Bharatagarwal0711/demo/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -203,6 +204,7 @@ Happy Coding! 🚀
 | [0875-koko-eating-bananas](https://github.com/Bharatagarwal0711/demo/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Bharatagarwal0711/demo/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Bharatagarwal0711/demo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/1019-next-greater-node-in-linked-list) |
 | [1402-reducing-dishes](https://github.com/Bharatagarwal0711/demo/tree/master/1402-reducing-dishes) |
 | [1480-running-sum-of-1d-array](https://github.com/Bharatagarwal0711/demo/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Bharatagarwal0711/demo/tree/master/1572-matrix-diagonal-sum) |
@@ -332,6 +334,7 @@ Happy Coding! 🚀
 | [0496-next-greater-element-i](https://github.com/Bharatagarwal0711/demo/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Bharatagarwal0711/demo/tree/master/0682-baseball-game) |
 | [0901-online-stock-span](https://github.com/Bharatagarwal0711/demo/tree/master/0901-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Bharatagarwal0711/demo/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Bharatagarwal0711/demo/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Bharatagarwal0711/demo/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -344,6 +347,7 @@ Happy Coding! 🚀
 | [0084-largest-rectangle-in-histogram](https://github.com/Bharatagarwal0711/demo/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Bharatagarwal0711/demo/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/Bharatagarwal0711/demo/tree/master/0901-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/1019-next-greater-node-in-linked-list) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Bharatagarwal0711/demo/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/2487-remove-nodes-from-linked-list) |
 ## Backtracking
