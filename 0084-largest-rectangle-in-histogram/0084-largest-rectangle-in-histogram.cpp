@@ -1,7 +1,6 @@
 class Solution {
 public:
     int largestRectangleArea(vector<int>& heights) {
-        if(heights.size() == 1) return heights[0];
 
         int n = heights.size();
         vector<int> nxtSmaller(n);
