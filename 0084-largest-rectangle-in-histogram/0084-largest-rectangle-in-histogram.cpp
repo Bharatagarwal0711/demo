@@ -14,10 +14,7 @@ public:
 
         // Next Smaller Element Index
         for(int i=n-1;i>=0;i--){
-
-
-
-
+            
             while(!st.empty() && st.top().first >= heights[i]) st.pop();
 
             if(st.empty()) nxtSmaller[i] = n;
