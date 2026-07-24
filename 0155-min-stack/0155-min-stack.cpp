@@ -6,9 +6,9 @@ public:
     MinStack() {}
     
     void push(int value) {
-        if(st.empty()) st.emplace(value,value);
+        int mn = st.empty() ? value : min(value,st.top().second);
         
-        else st.emplace(value,min(value,st.top().second));
+        st.emplace(value,mn);
     }
     
     void pop() {
