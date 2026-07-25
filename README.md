@@ -130,6 +130,7 @@ Happy Coding! 🚀
 | [0024-swap-nodes-in-pairs](https://github.com/Bharatagarwal0711/demo/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Bharatagarwal0711/demo/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0092-reverse-linked-list-ii) |
+| [0146-lru-cache](https://github.com/Bharatagarwal0711/demo/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Bharatagarwal0711/demo/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Bharatagarwal0711/demo/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/0206-reverse-linked-list) |
@@ -252,6 +253,7 @@ Happy Coding! 🚀
 | ------- |
 | [0041-first-missing-positive](https://github.com/Bharatagarwal0711/demo/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Bharatagarwal0711/demo/tree/master/0049-group-anagrams) |
+| [0146-lru-cache](https://github.com/Bharatagarwal0711/demo/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/Bharatagarwal0711/demo/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Bharatagarwal0711/demo/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0219-contains-duplicate-ii) |
@@ -364,6 +366,7 @@ Happy Coding! 🚀
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Bharatagarwal0711/demo/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Bharatagarwal0711/demo/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Bharatagarwal0711/demo/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Bharatagarwal0711/demo/tree/master/0303-range-sum-query-immutable) |
@@ -469,6 +472,7 @@ Happy Coding! 🚀
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Bharatagarwal0711/demo/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Binary Indexed Tree
 |  |
