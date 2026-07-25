@@ -190,6 +190,7 @@ Happy Coding! 🚀
 | [0485-max-consecutive-ones](https://github.com/Bharatagarwal0711/demo/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Bharatagarwal0711/demo/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Bharatagarwal0711/demo/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Bharatagarwal0711/demo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0622-design-circular-queue](https://github.com/Bharatagarwal0711/demo/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Bharatagarwal0711/demo/tree/master/0641-design-circular-deque) |
@@ -333,6 +334,7 @@ Happy Coding! 🚀
 | [0232-implement-queue-using-stacks](https://github.com/Bharatagarwal0711/demo/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Bharatagarwal0711/demo/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Bharatagarwal0711/demo/tree/master/0682-baseball-game) |
 | [0901-online-stock-span](https://github.com/Bharatagarwal0711/demo/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/1019-next-greater-node-in-linked-list) |
@@ -348,6 +350,7 @@ Happy Coding! 🚀
 | [0042-trapping-rain-water](https://github.com/Bharatagarwal0711/demo/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bharatagarwal0711/demo/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Bharatagarwal0711/demo/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Bharatagarwal0711/demo/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bharatagarwal0711/demo/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
