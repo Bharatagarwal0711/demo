@@ -26,24 +26,8 @@ public:
         tail->prev = head;
     }
 
-    // Remove a node from its current position
-    void removeNode(Node* node) {
-        node->prev->next = node->next;
-        node->next->prev = node->prev;
-    }
-
-    // Insert node just after head (Most Recently Used)
-    void addToFront(Node* node) {
-        node->next = head->next;
-        node->prev = head;
-
-        head->next->prev = node;
-        head->next = node;
-    }
-
     int get(int key) {
-        if (mp.find(key) == mp.end())
-            return -1;
+        if (mp.find(key) == mp.end()) return -1;
 
         Node* node = mp[key];
 
@@ -79,4 +63,20 @@ public:
             delete lru;
         }
     }
+
+    // Remove a node from its current position
+    void removeNode(Node* node) {
+        node->prev->next = node->next;
+        node->next->prev = node->prev;
+    }
+
+    // Insert node just after head (Most Recently Used)
+    void addToFront(Node* node) {
+        node->next = head->next;
+        node->prev = head;
+
+        head->next->prev = node;
+        head->next = node;
+    }
+
 };
