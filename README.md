@@ -211,6 +211,7 @@ Happy Coding! 🚀
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bharatagarwal0711/demo/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Bharatagarwal0711/demo/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Bharatagarwal0711/demo/tree/master/1572-matrix-diagonal-sum) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Bharatagarwal0711/demo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Bharatagarwal0711/demo/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Bharatagarwal0711/demo/tree/master/2187-minimum-time-to-complete-trips) |
 | [2326-spiral-matrix-iv](https://github.com/Bharatagarwal0711/demo/tree/master/2326-spiral-matrix-iv) |
@@ -342,6 +343,7 @@ Happy Coding! 🚀
 | [1019-next-greater-node-in-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Bharatagarwal0711/demo/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bharatagarwal0711/demo/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Bharatagarwal0711/demo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Bharatagarwal0711/demo/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Bharatagarwal0711/demo/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -409,6 +411,7 @@ Happy Coding! 🚀
 | [0232-implement-queue-using-stacks](https://github.com/Bharatagarwal0711/demo/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Bharatagarwal0711/demo/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Bharatagarwal0711/demo/tree/master/0641-design-circular-deque) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Bharatagarwal0711/demo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -500,6 +503,7 @@ Happy Coding! 🚀
 | ------- |
 | [0682-baseball-game](https://github.com/Bharatagarwal0711/demo/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Bharatagarwal0711/demo/tree/master/0867-transpose-matrix) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Bharatagarwal0711/demo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Bharatagarwal0711/demo/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Bharatagarwal0711/demo/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2326-spiral-matrix-iv](https://github.com/Bharatagarwal0711/demo/tree/master/2326-spiral-matrix-iv) |
