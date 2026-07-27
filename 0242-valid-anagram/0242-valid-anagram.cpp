@@ -4,14 +4,23 @@ public:
         if(s.size() != t.size()) return false;
         
         unordered_map<char,int> s1;
-        unordered_map<char,int> s2;
 
-        for(int i=0;i<s.size();i++){
-            s1[s[i]]++;
-            s2[t[i]]++;
+
+        for(int i=0;i<s.size();i++)  s1[s[i]]++;
+
+        for(int i=0;i<t.size();i++){
+            if(s1.find(t[i]) != s1.end()){
+                s1[t[i]]--;
+
+                if(s1[t[i]] == 0) s1.erase(t[i]);
+            }
+            else return false;
+
+            
         }
+        
 
-        return s1 == s2;
+        return s1.size() == 0;
         
     }
 };
