@@ -261,6 +261,7 @@ Happy Coding! 🚀
 | [0219-contains-duplicate-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Bharatagarwal0711/demo/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Bharatagarwal0711/demo/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Bharatagarwal0711/demo/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bharatagarwal0711/demo/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bharatagarwal0711/demo/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Bharatagarwal0711/demo/tree/master/0496-next-greater-element-i) |
@@ -276,6 +277,7 @@ Happy Coding! 🚀
 | [0242-valid-anagram](https://github.com/Bharatagarwal0711/demo/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Bharatagarwal0711/demo/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Bharatagarwal0711/demo/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Bharatagarwal0711/demo/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Bharatagarwal0711/demo/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Bharatagarwal0711/demo/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Bharatagarwal0711/demo/tree/master/0567-permutation-in-string) |
@@ -412,6 +414,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Bharatagarwal0711/demo/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Bharatagarwal0711/demo/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/Bharatagarwal0711/demo/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Bharatagarwal0711/demo/tree/master/0641-design-circular-deque) |
 | [0649-dota2-senate](https://github.com/Bharatagarwal0711/demo/tree/master/0649-dota2-senate) |
@@ -530,6 +533,7 @@ Happy Coding! 🚀
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Bharatagarwal0711/demo/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/Bharatagarwal0711/demo/tree/master/0912-sort-an-array) |
 ## Brainteaser
 |  |
