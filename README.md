@@ -278,6 +278,7 @@ Happy Coding! 🚀
 | [0443-string-compression](https://github.com/Bharatagarwal0711/demo/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Bharatagarwal0711/demo/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Bharatagarwal0711/demo/tree/master/0567-permutation-in-string) |
+| [0649-dota2-senate](https://github.com/Bharatagarwal0711/demo/tree/master/0649-dota2-senate) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Bharatagarwal0711/demo/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Bharatagarwal0711/demo/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Bharatagarwal0711/demo/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -411,6 +412,7 @@ Happy Coding! 🚀
 | [0232-implement-queue-using-stacks](https://github.com/Bharatagarwal0711/demo/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Bharatagarwal0711/demo/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Bharatagarwal0711/demo/tree/master/0641-design-circular-deque) |
+| [0649-dota2-senate](https://github.com/Bharatagarwal0711/demo/tree/master/0649-dota2-senate) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Bharatagarwal0711/demo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Prefix Sum
 |  |
@@ -455,6 +457,7 @@ Happy Coding! 🚀
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Bharatagarwal0711/demo/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Bharatagarwal0711/demo/tree/master/0455-assign-cookies) |
+| [0649-dota2-senate](https://github.com/Bharatagarwal0711/demo/tree/master/0649-dota2-senate) |
 | [0861-score-after-flipping-matrix](https://github.com/Bharatagarwal0711/demo/tree/master/0861-score-after-flipping-matrix) |
 | [1402-reducing-dishes](https://github.com/Bharatagarwal0711/demo/tree/master/1402-reducing-dishes) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Bharatagarwal0711/demo/tree/master/2389-longest-subsequence-with-limited-sum) |
