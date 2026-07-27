@@ -175,6 +175,7 @@ Happy Coding! 🚀
 | [0051-n-queens](https://github.com/Bharatagarwal0711/demo/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Bharatagarwal0711/demo/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bharatagarwal0711/demo/tree/master/0084-largest-rectangle-in-histogram) |
+| [0134-gas-station](https://github.com/Bharatagarwal0711/demo/tree/master/0134-gas-station) |
 | [0204-count-primes](https://github.com/Bharatagarwal0711/demo/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Bharatagarwal0711/demo/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0219-contains-duplicate-ii) |
@@ -461,6 +462,7 @@ Happy Coding! 🚀
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Bharatagarwal0711/demo/tree/master/0134-gas-station) |
 | [0410-split-array-largest-sum](https://github.com/Bharatagarwal0711/demo/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Bharatagarwal0711/demo/tree/master/0455-assign-cookies) |
 | [0649-dota2-senate](https://github.com/Bharatagarwal0711/demo/tree/master/0649-dota2-senate) |
