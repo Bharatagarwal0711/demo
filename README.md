@@ -224,6 +224,7 @@ Happy Coding! 🚀
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bharatagarwal0711/demo/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2614-prime-in-diagonal](https://github.com/Bharatagarwal0711/demo/tree/master/2614-prime-in-diagonal) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Bharatagarwal0711/demo/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Bharatagarwal0711/demo/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/Bharatagarwal0711/demo/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -274,6 +275,7 @@ Happy Coding! 🚀
 | [1207-unique-number-of-occurrences](https://github.com/Bharatagarwal0711/demo/tree/master/1207-unique-number-of-occurrences) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Bharatagarwal0711/demo/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bharatagarwal0711/demo/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Bharatagarwal0711/demo/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/Bharatagarwal0711/demo/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -291,6 +293,7 @@ Happy Coding! 🚀
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Bharatagarwal0711/demo/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Bharatagarwal0711/demo/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Bharatagarwal0711/demo/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Bharatagarwal0711/demo/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -525,6 +528,7 @@ Happy Coding! 🚀
 | [2181-merge-nodes-in-between-zeros](https://github.com/Bharatagarwal0711/demo/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2326-spiral-matrix-iv](https://github.com/Bharatagarwal0711/demo/tree/master/2326-spiral-matrix-iv) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Bharatagarwal0711/demo/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Bharatagarwal0711/demo/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Data Stream
 |  |
 | ------- |
