@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maximumNumberOfStringPairs(vector<string>& words) {
-        unordered_map<string,int> mp;
+        unordered_set<string> s;
 
         int count = 0;
 
@@ -9,9 +9,9 @@ public:
             string temp = words[i];
             reverse(temp.begin(),temp.end());
 
-            if(mp.find(temp) != mp.end()) count++;
+            if(s.find(temp) != s.end()) count++;
 
-            mp[words[i]] = i;
+            s.insert(words[i]);
         }
 
         return count;
