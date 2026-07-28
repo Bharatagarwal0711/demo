@@ -25,12 +25,11 @@ public:
         int ans = 0;
 
         for(auto ele: map1){
+            
             int diff = tot-ele.first;
 
-            if(map2[diff] > 0){
-                ans += map1[ele.first] * map2[diff];
-            }
-
+            if(map2.find(diff) != map2.end())  ans += ele.second * map2[diff];
+        
         }
 
         return ans;
