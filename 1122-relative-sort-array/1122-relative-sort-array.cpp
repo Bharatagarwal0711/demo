@@ -3,14 +3,13 @@ public:
     vector<int> relativeSortArray(vector<int>& arr1, vector<int>& arr2) {
         unordered_map<int,int> mp;
         unordered_set<int> s;
+        
         for(int ele: arr2) s.insert(ele);
 
         vector<int> not_appear;
 
         for(int ele: arr1){
-            if(s.find(ele) != s.end()){
-                mp[ele]++;
-            }
+            if(s.find(ele) != s.end()) mp[ele]++;
             else not_appear.push_back(ele);
         }
 
@@ -28,9 +27,6 @@ public:
 
         for(int ele: not_appear) ans.push_back(ele);
         return ans;
-
-
-        
-         
+  
     }
 };
