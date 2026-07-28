@@ -8,10 +8,7 @@ public:
         for(int ele: nums){
 
             int key = ele-rev(ele);
-
-            if(mp[key] > 0){
-                count += mp[key];
-            }
+            count += mp[key];
             mp[key]++ ;
         }
 
