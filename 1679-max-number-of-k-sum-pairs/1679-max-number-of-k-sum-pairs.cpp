@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maxOperations(vector<int>& nums, int k) {
-        multiset<int> s;
+        unordered_map<int,int> s;
         int count = 0;
 
         for(int ele: nums){
@@ -9,9 +9,10 @@ public:
 
             if(s.find(diff) != s.end()){
                 count++;
-                s.erase(s.find(diff));
+                s[diff]--;
+                if(s[diff] == 0) s.erase(diff);
             }
-            else s.insert(ele);
+            else s[ele]++;
         }
 
         return count;
