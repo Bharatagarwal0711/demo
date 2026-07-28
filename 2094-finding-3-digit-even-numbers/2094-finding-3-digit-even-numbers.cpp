@@ -8,7 +8,7 @@ public:
         multiset<int> digit(digits.begin(),digits.end());
         multiset<int> temp;
 
-        for(int i=100;i<1000;i+=2){
+        for(int i=100;i<=998;i+=2){
 
             bool flag = true;
             temp = digit;
