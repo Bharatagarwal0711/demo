@@ -209,6 +209,7 @@ Happy Coding! 🚀
 | [0950-reveal-cards-in-increasing-order](https://github.com/Bharatagarwal0711/demo/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Bharatagarwal0711/demo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/1019-next-greater-node-in-linked-list) |
+| [1122-relative-sort-array](https://github.com/Bharatagarwal0711/demo/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Bharatagarwal0711/demo/tree/master/1207-unique-number-of-occurrences) |
 | [1402-reducing-dishes](https://github.com/Bharatagarwal0711/demo/tree/master/1402-reducing-dishes) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bharatagarwal0711/demo/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -272,6 +273,7 @@ Happy Coding! 🚀
 | [0496-next-greater-element-i](https://github.com/Bharatagarwal0711/demo/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Bharatagarwal0711/demo/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Bharatagarwal0711/demo/tree/master/0645-set-mismatch) |
+| [1122-relative-sort-array](https://github.com/Bharatagarwal0711/demo/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Bharatagarwal0711/demo/tree/master/1207-unique-number-of-occurrences) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Bharatagarwal0711/demo/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bharatagarwal0711/demo/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -310,6 +312,7 @@ Happy Coding! 🚀
 | [0658-find-k-closest-elements](https://github.com/Bharatagarwal0711/demo/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Bharatagarwal0711/demo/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Bharatagarwal0711/demo/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1122-relative-sort-array](https://github.com/Bharatagarwal0711/demo/tree/master/1122-relative-sort-array) |
 | [1402-reducing-dishes](https://github.com/Bharatagarwal0711/demo/tree/master/1402-reducing-dishes) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Bharatagarwal0711/demo/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Two Pointers
@@ -546,6 +549,7 @@ Happy Coding! 🚀
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Bharatagarwal0711/demo/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/Bharatagarwal0711/demo/tree/master/0912-sort-an-array) |
+| [1122-relative-sort-array](https://github.com/Bharatagarwal0711/demo/tree/master/1122-relative-sort-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Bharatagarwal0711/demo/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Brainteaser
 |  |
