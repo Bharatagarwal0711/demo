@@ -218,6 +218,7 @@ Happy Coding! 🚀
 | [1572-matrix-diagonal-sum](https://github.com/Bharatagarwal0711/demo/tree/master/1572-matrix-diagonal-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Bharatagarwal0711/demo/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Bharatagarwal0711/demo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/Bharatagarwal0711/demo/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/Bharatagarwal0711/demo/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Bharatagarwal0711/demo/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Bharatagarwal0711/demo/tree/master/2094-finding-3-digit-even-numbers) |
@@ -244,6 +245,7 @@ Happy Coding! 🚀
 | [0650-2-keys-keyboard](https://github.com/Bharatagarwal0711/demo/tree/master/0650-2-keys-keyboard) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Bharatagarwal0711/demo/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bharatagarwal0711/demo/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/Bharatagarwal0711/demo/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Bharatagarwal0711/demo/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Bharatagarwal0711/demo/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bharatagarwal0711/demo/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -281,6 +283,7 @@ Happy Coding! 🚀
 | [1122-relative-sort-array](https://github.com/Bharatagarwal0711/demo/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Bharatagarwal0711/demo/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Bharatagarwal0711/demo/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/Bharatagarwal0711/demo/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/Bharatagarwal0711/demo/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Bharatagarwal0711/demo/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Bharatagarwal0711/demo/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -562,6 +565,7 @@ Happy Coding! 🚀
 | [0387-first-unique-character-in-a-string](https://github.com/Bharatagarwal0711/demo/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/Bharatagarwal0711/demo/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/Bharatagarwal0711/demo/tree/master/1122-relative-sort-array) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/Bharatagarwal0711/demo/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Bharatagarwal0711/demo/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Brainteaser
 |  |
