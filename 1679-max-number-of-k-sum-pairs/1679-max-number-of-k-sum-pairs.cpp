@@ -7,10 +7,9 @@ public:
         for(int ele: nums){
             int diff = k-ele;
 
-            if(s.find(diff) != s.end()){
+            if(s[diff]>0){
                 count++;
                 s[diff]--;
-                if(s[diff] == 0) s.erase(diff);
             }
             else s[ele]++;
         }
