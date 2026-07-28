@@ -5,8 +5,11 @@ public:
 
         vector<int> ans;
 
-        multiset<int> digit(digits.begin(),digits.end());
-        multiset<int> temp;
+        unordered_map<int,int> digit;
+        for(int ele: digits) digit[ele]++;
+
+
+        unordered_map<int,int> temp;
 
         for(int i=100;i<=998;i+=2){
 
@@ -15,7 +18,9 @@ public:
             int num = i;
 
             while(num){
-                if(temp.find(num%10) != temp.end()) temp.erase(temp.find(num%10));
+                if(temp[num % 10] > 0){
+                    temp[num % 10]--;
+                }
                 else{
                     flag = false;
                     break;
