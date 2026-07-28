@@ -217,6 +217,7 @@ Happy Coding! 🚀
 | [1572-matrix-diagonal-sum](https://github.com/Bharatagarwal0711/demo/tree/master/1572-matrix-diagonal-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Bharatagarwal0711/demo/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Bharatagarwal0711/demo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/Bharatagarwal0711/demo/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Bharatagarwal0711/demo/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Bharatagarwal0711/demo/tree/master/2187-minimum-time-to-complete-trips) |
 | [2326-spiral-matrix-iv](https://github.com/Bharatagarwal0711/demo/tree/master/2326-spiral-matrix-iv) |
@@ -277,6 +278,7 @@ Happy Coding! 🚀
 | [1122-relative-sort-array](https://github.com/Bharatagarwal0711/demo/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Bharatagarwal0711/demo/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Bharatagarwal0711/demo/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/Bharatagarwal0711/demo/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Bharatagarwal0711/demo/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bharatagarwal0711/demo/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Bharatagarwal0711/demo/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -396,6 +398,7 @@ Happy Coding! 🚀
 | [0622-design-circular-queue](https://github.com/Bharatagarwal0711/demo/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Bharatagarwal0711/demo/tree/master/0641-design-circular-deque) |
 | [0901-online-stock-span](https://github.com/Bharatagarwal0711/demo/tree/master/0901-online-stock-span) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/Bharatagarwal0711/demo/tree/master/1865-finding-pairs-with-a-certain-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
