@@ -164,6 +164,7 @@ Happy Coding! 🚀
 | [0231-power-of-two](https://github.com/Bharatagarwal0711/demo/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Bharatagarwal0711/demo/tree/master/0509-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Bharatagarwal0711/demo/tree/master/2094-finding-3-digit-even-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Bharatagarwal0711/demo/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
 |  |
@@ -219,6 +220,7 @@ Happy Coding! 🚀
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Bharatagarwal0711/demo/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/Bharatagarwal0711/demo/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Bharatagarwal0711/demo/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Bharatagarwal0711/demo/tree/master/2094-finding-3-digit-even-numbers) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Bharatagarwal0711/demo/tree/master/2187-minimum-time-to-complete-trips) |
 | [2326-spiral-matrix-iv](https://github.com/Bharatagarwal0711/demo/tree/master/2326-spiral-matrix-iv) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Bharatagarwal0711/demo/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -251,6 +253,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Bharatagarwal0711/demo/tree/master/0204-count-primes) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Bharatagarwal0711/demo/tree/master/2094-finding-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
@@ -279,6 +282,7 @@ Happy Coding! 🚀
 | [1207-unique-number-of-occurrences](https://github.com/Bharatagarwal0711/demo/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Bharatagarwal0711/demo/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/Bharatagarwal0711/demo/tree/master/1865-finding-pairs-with-a-certain-sum) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Bharatagarwal0711/demo/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Bharatagarwal0711/demo/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Bharatagarwal0711/demo/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Bharatagarwal0711/demo/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -319,6 +323,7 @@ Happy Coding! 🚀
 | [1122-relative-sort-array](https://github.com/Bharatagarwal0711/demo/tree/master/1122-relative-sort-array) |
 | [1402-reducing-dishes](https://github.com/Bharatagarwal0711/demo/tree/master/1402-reducing-dishes) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Bharatagarwal0711/demo/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Bharatagarwal0711/demo/tree/master/2094-finding-3-digit-even-numbers) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Bharatagarwal0711/demo/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Two Pointers
 |  |
