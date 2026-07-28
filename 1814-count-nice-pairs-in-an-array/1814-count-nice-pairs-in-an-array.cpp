@@ -7,10 +7,12 @@ public:
 
         for(int ele: nums){
 
-            if(mp[ele-rev(ele)] > 0){
-                count += mp[ele-rev(ele)];
+            int key = ele-rev(ele);
+
+            if(mp[key] > 0){
+                count += mp[key];
             }
-            mp[ele-rev(ele)]++ ;
+            mp[key]++ ;
         }
 
         return count % (1000000000+7);
