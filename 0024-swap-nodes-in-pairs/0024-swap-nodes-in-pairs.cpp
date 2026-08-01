@@ -20,7 +20,6 @@ public:
 
         while(slow && slow->next){
 
-
             ListNode* nxt = slow->next->next;
 
             temp->next = slow->next;
@@ -28,13 +27,13 @@ public:
 
             ListNode* var = slow;
             temp->next = var;
-
             temp = temp->next;
+
+            temp->next = nxt;
 
             slow = nxt;
 
         }
-        temp->next = slow;
 
         return Dummy.next;
     }
