@@ -1,14 +1,20 @@
 class MinStack {
 public:
 
-    stack< pair<int,int> > st;
+    stack<pair<int,int>> st;
 
-    MinStack() {}
+    MinStack() {
+        
+    }
     
     void push(int value) {
-        int mn = st.empty() ? value : min(value,st.top().second);
-        
-        st.emplace(value,mn);
+        if(st.empty()) st.emplace(value,value);
+        else{
+            int mn = min(value,getMin());
+
+            st.emplace(value,mn);
+        }
+
     }
     
     void pop() {
@@ -23,3 +29,12 @@ public:
         return st.top().second;
     }
 };
+
+/**
+ * Your MinStack object will be instantiated and called as such:
+ * MinStack* obj = new MinStack();
+ * obj->push(value);
+ * obj->pop();
+ * int param_3 = obj->top();
+ * int param_4 = obj->getMin();
+ */
