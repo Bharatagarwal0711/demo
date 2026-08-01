@@ -2,21 +2,28 @@ class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
         sort(intervals.begin(),intervals.end());
+
         vector<vector<int>> ans;
 
-        vector<int> temp = intervals[0];
+        for(vector<int> ele: intervals){
+            if(ans.empty()) ans.push_back(ele);
 
-        int i=1;
-        while(i<intervals.size()){
-            if(temp[1]>=intervals[i][0]) temp[1] = max(temp[1],intervals[i][1]);
-            
-            else{
-                ans.push_back(temp);
-                temp = intervals[i];
+            else if(overlap(ans.back(),ele)){
+                ans.back()[0] = min(ans.back()[0],ele[0]);
+                ans.back()[1] = max(ans.back()[1],ele[1]);
+
             }
-            i++;
+            else{
+                ans.push_back(ele);
+            }
         }
-        ans.push_back(temp);
+
         return ans;
+    }
+
+    bool overlap(vector<int> &arr1, vector<int> &arr2){
+        if(arr1[1]>=arr2[0]) return true;
+
+        return false; 
     }
 };
