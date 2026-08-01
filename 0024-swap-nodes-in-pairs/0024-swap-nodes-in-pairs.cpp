@@ -29,30 +29,36 @@ public:
 
     ListNode* swapPairs(ListNode* head) {
         if(head == NULL || head->next == NULL) return head;
-        int k = 2;
-        ListNode dummy;
-        ListNode* temp = &dummy;
-        ListNode* start = head, *prev = head, *temp1 = head;
+        
+        ListNode Dummy(0);
+        ListNode* temp = &Dummy;
 
-        while(temp1){
-            start = temp1;
-            int count = 0;
-            while(temp1 && count<k){
-                prev = temp1;
-                temp1 = temp1->next;
-                count++;
+        ListNode* slow = head;
+        ListNode* fast = head->next;
+        ListNode* nxt = fast->next;
+
+
+        while(slow && slow->next){
+            fast->next = NULL;
+
+            temp->next = reverseList(slow);
+            slow->next = nxt;
+            temp = slow;
+
+            slow = nxt;
+
+            if(slow && slow->next){
+                fast = slow->next;
+                nxt = slow->next->next;
             }
-            if(count == k){
-                prev->next = NULL;
-                temp->next = reverseList(start);
-                temp = start;
-                start->next = temp1;
-            }
-            else{
-                temp->next = start;
-                break;
-            }
+            else break;
         }
-        return dummy.next;
+
+        return Dummy.next;
+
+
+
+        
+
     }
 };
