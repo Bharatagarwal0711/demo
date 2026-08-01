@@ -8,22 +8,16 @@ public:
         for(vector<int> ele: intervals){
             if(ans.empty()) ans.push_back(ele);
 
-            else if(overlap(ans.back(),ele)){
+            else if(ans.back()[1]>=ele[0]){
                 ans.back()[0] = min(ans.back()[0],ele[0]);
                 ans.back()[1] = max(ans.back()[1],ele[1]);
 
             }
-            else{
-                ans.push_back(ele);
-            }
+            else ans.push_back(ele);
+            
         }
 
         return ans;
     }
 
-    bool overlap(vector<int> &arr1, vector<int> &arr2){
-        if(arr1[1]>=arr2[0]) return true;
-
-        return false; 
-    }
 };
