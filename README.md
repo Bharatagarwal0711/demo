@@ -169,6 +169,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Bharatagarwal0711/demo/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Bharatagarwal0711/demo/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/Bharatagarwal0711/demo/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Bharatagarwal0711/demo/tree/master/0042-trapping-rain-water) |
@@ -310,6 +311,7 @@ Happy Coding! 🚀
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Bharatagarwal0711/demo/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Bharatagarwal0711/demo/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Bharatagarwal0711/demo/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Bharatagarwal0711/demo/tree/master/0056-merge-intervals) |
@@ -331,6 +333,7 @@ Happy Coding! 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Bharatagarwal0711/demo/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Bharatagarwal0711/demo/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Bharatagarwal0711/demo/tree/master/0042-trapping-rain-water) |
 | [0148-sort-list](https://github.com/Bharatagarwal0711/demo/tree/master/0148-sort-list) |
