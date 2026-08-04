@@ -42,10 +42,10 @@
 
 <a id="arrays"></a>
 
-## 📁 Arrays (7)
+## 📁 Arrays
 
 <details>
-<summary><b>📂 Arrays (7 Problems)</b></summary>
+<summary><b>7 Problems </b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
