@@ -14,10 +14,40 @@
 
 ---
 
+## 📚 Topics
+
+<p align="center">
+
+<a href="#-arrays-7">Arrays</a> •
+<a href="#-backtracking-1">Backtracking</a> •
+<a href="#-binary-search-14">Binary Search</a> •
+<a href="#-binary-tree-12">Binary Tree</a> •
+<a href="#-bit-manipulation-5">Bit Manipulation</a> •
+<a href="#-cycle-sort">Cycle Sort</a> •
+<a href="#-dynamic-programming">Dynamic Programming</a> •
+<a href="#-greedy">Greedy</a> •
+<a href="#-hash-table">Hash Table</a> •
+<a href="#-intervals">Intervals</a> •
+<a href="#-linked-list">Linked List</a> •
+<a href="#-math">Math</a> •
+<a href="#-matrix">Matrix</a> •
+<a href="#-merge-sort">Merge Sort</a> •
+<a href="#-prefix-sum">Prefix Sum</a> •
+<a href="#-queue">Queue</a> •
+<a href="#-sets--maps">Sets & Maps</a> •
+<a href="#-simulation">Simulation</a> •
+<a href="#-stack">Stack</a> •
+<a href="#-string">String</a> •
+<a href="#-two-pointers">Two Pointers</a>
+
+</p>
+
+---
+
 ## 📁 Arrays (7)
 
 <details>
-<summary>Show Problems</summary>
+<summary><b>📂 Arrays (7 Problems)</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
