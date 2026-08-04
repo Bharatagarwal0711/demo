@@ -6,24 +6,18 @@
 </p>
 
 <p align="center">
-  <b>Easy:</b> xx &nbsp;&nbsp;|&nbsp;&nbsp;
-  <b>Medium:</b> xx &nbsp;&nbsp;|&nbsp;&nbsp;
-  <b>Hard:</b> xx &nbsp;&nbsp;|&nbsp;&nbsp;
-  <b>Total:</b> xxx
+  🟢 <b>Easy:</b> xx &nbsp;&nbsp;|&nbsp;&nbsp;
+  🟡 <b>Medium:</b> xx &nbsp;&nbsp;|&nbsp;&nbsp;
+  🔴 <b>Hard:</b> xx &nbsp;&nbsp;|&nbsp;&nbsp;
+  📚 <b>Total:</b> xxx
 </p>
-
----
-
-## 📚 Topics
-
-`Arrays` • `Backtracking` • `Binary Search` • `Binary Tree` • `Bit Manipulation` • `Cycle Sort` • `Dynamic Programming` • `Greedy` • `Hash Table` • `Intervals` • `Linked List` • `Math` • `Matrix` • `Merge Sort` • `Prefix Sum` • `Queue` • `Sets & Maps` • `Simulation` • `Stack` • `String` • `Two Pointers`
 
 ---
 
 ## 📁 Arrays (7)
 
 <details>
-<summary><b>📂 7 Problems</b></summary>
+<summary>Show Problems</summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
