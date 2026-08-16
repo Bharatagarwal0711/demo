@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bharatagarwal0711/demo/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Bharatagarwal0711/demo/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/Bharatagarwal0711/demo/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -76,4 +77,5 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bharatagarwal0711/demo/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Bharatagarwal0711/demo/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
