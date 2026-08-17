@@ -11,13 +11,10 @@ public:
             while(!st.empty() && st.top().first <= temperatures[i]){
                 count += st.top().second;
                 st.pop();
-            }
-
-            if(!st.empty() && st.top().first > temperatures[i]) count++;
-            
+            }            
 
             if(st.empty()) ans[i] = 0;
-            else ans[i] = count;
+            else ans[i] = ++count;
 
 
             st.emplace(temperatures[i],count);
