@@ -85,6 +85,7 @@
 | [0027-remove-element](https://github.com/Bharatagarwal0711/demo/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Bharatagarwal0711/demo/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/Bharatagarwal0711/demo/tree/master/0053-maximum-subarray) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Bharatagarwal0711/demo/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bharatagarwal0711/demo/tree/master/0380-insert-delete-getrandom-o1) |
@@ -149,8 +150,10 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Bharatagarwal0711/demo/tree/master/0053-maximum-subarray) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bharatagarwal0711/demo/tree/master/0011-container-with-most-water) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
