@@ -16,6 +16,8 @@ public:
         while(j<=s.size()){
             if(temp == mp) ans.push_back(i);
 
+            if(j==s.size()) break;
+            
             temp[s[i]]--;
             temp[s[j]]++;
 
