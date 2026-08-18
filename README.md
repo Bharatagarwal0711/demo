@@ -87,6 +87,7 @@
 | [0053-maximum-subarray](https://github.com/Bharatagarwal0711/demo/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bharatagarwal0711/demo/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0347-top-k-frequent-elements](https://github.com/Bharatagarwal0711/demo/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Bharatagarwal0711/demo/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bharatagarwal0711/demo/tree/master/0380-insert-delete-getrandom-o1) |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Bharatagarwal0711/demo/tree/master/0036-valid-sudoku) |
+| [0347-top-k-frequent-elements](https://github.com/Bharatagarwal0711/demo/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Bharatagarwal0711/demo/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bharatagarwal0711/demo/tree/master/0380-insert-delete-getrandom-o1) |
@@ -108,6 +110,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Bharatagarwal0711/demo/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Bharatagarwal0711/demo/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Matrix
@@ -149,6 +152,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Bharatagarwal0711/demo/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/Bharatagarwal0711/demo/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -159,4 +163,20 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bharatagarwal0711/demo/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Bharatagarwal0711/demo/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Bharatagarwal0711/demo/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Bharatagarwal0711/demo/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Bharatagarwal0711/demo/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
