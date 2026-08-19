@@ -80,6 +80,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bharatagarwal0711/demo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Bharatagarwal0711/demo/tree/master/0020-valid-parentheses) |
+| [0290-word-pattern](https://github.com/Bharatagarwal0711/demo/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Bharatagarwal0711/demo/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bharatagarwal0711/demo/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Array
@@ -108,6 +109,7 @@
 | [0036-valid-sudoku](https://github.com/Bharatagarwal0711/demo/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Bharatagarwal0711/demo/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/Bharatagarwal0711/demo/tree/master/0202-happy-number) |
+| [0290-word-pattern](https://github.com/Bharatagarwal0711/demo/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Bharatagarwal0711/demo/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Bharatagarwal0711/demo/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0350-intersection-of-two-arrays-ii) |
