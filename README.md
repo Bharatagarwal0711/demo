@@ -69,6 +69,7 @@
 | [0011-container-with-most-water](https://github.com/Bharatagarwal0711/demo/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bharatagarwal0711/demo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Bharatagarwal0711/demo/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/Bharatagarwal0711/demo/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Bharatagarwal0711/demo/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Bharatagarwal0711/demo/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -90,6 +91,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Bharatagarwal0711/demo/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bharatagarwal0711/demo/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0283-move-zeroes](https://github.com/Bharatagarwal0711/demo/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Bharatagarwal0711/demo/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Bharatagarwal0711/demo/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0350-intersection-of-two-arrays-ii) |
