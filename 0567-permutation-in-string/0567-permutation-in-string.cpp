@@ -1,27 +1,28 @@
 class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
-        if(s2.size()<s1.size()) return false;
+        if(s2.size() < s1.size()) return false;
         
-        vector<int> str1(26);
-        for(char ch: s1){
-            str1[ch-'a']++;
-        }
+        unordered_map<char,int> mp;
+        for(char ch: s1) mp[ch]++;
 
-        int i=0;
-        while(i<=s2.size()-s1.size()){
+        unordered_map<char,int> check;
+        for(int i=0;i<s1.size();i++) check[s2[i]]++;
 
-            vector<int> str2(26);
-            int j=0;
-            while(j<s1.size()){
-                int idx = s2[i+j]-'a';
-                str2[idx]++;
-                j++;
-            }
 
-            if(str1 == str2) return true;
+        int j=s1.size();
 
-            i++;
+        for(int i=0;i<=s2.size()-s1.size();i++){
+
+
+            if(mp == check) return true;
+
+            if(check[s2[i]] == 1) check.erase(s2[i]);
+            else check[s2[i]]--;
+
+            if(j==s2.size()) return false;
+            check[s2[j++]]++;
+
         }
         return false;
     }
