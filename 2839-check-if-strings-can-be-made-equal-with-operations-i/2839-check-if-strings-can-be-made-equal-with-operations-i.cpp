@@ -3,7 +3,6 @@ public:
     bool canBeEqual(string s1, string s2) {
         int i=0, j=0;
 
-
         while(i<4){
             if(s1[i] == s2[j]){
                 i++;
@@ -23,6 +22,5 @@ public:
 
         return true;
 
-        
     }
 };
