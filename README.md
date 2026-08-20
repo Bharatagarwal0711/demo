@@ -69,6 +69,7 @@
 | [0011-container-with-most-water](https://github.com/Bharatagarwal0711/demo/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bharatagarwal0711/demo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Bharatagarwal0711/demo/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bharatagarwal0711/demo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Bharatagarwal0711/demo/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Bharatagarwal0711/demo/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Bharatagarwal0711/demo/tree/master/0344-reverse-string) |
@@ -99,6 +100,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bharatagarwal0711/demo/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bharatagarwal0711/demo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Bharatagarwal0711/demo/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bharatagarwal0711/demo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Bharatagarwal0711/demo/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Bharatagarwal0711/demo/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Bharatagarwal0711/demo/tree/master/0349-intersection-of-two-arrays) |
@@ -128,6 +130,7 @@
 | [0035-search-insert-position](https://github.com/Bharatagarwal0711/demo/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bharatagarwal0711/demo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Bharatagarwal0711/demo/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bharatagarwal0711/demo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Bharatagarwal0711/demo/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Bharatagarwal0711/demo/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0350-intersection-of-two-arrays-ii) |
