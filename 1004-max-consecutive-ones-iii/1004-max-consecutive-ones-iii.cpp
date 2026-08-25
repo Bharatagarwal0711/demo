@@ -5,24 +5,20 @@ public:
         int n = nums.size();
         int ans = 0;
 
-        int no1 = 0, no0 = 0;
+        int no0 = 0;
 
-        while(j<n){
+        while(j < n) {
 
-            if(nums[j]) no1++;
-            else if(no0 < k) no0++;
+            if(nums[j] == 0)
+                no0++;
 
-            else if(no0 >= k){
-                while(nums[i] != 0){
-                    if(nums[i]) no1--;
-                    i++;
-                }
-
+            while(no0 > k) {
+                if(nums[i] == 0) no0--;
                 i++;
             }
-            ans = max(ans,no1+no0);
-            j++;
 
+            ans = max(ans, j - i + 1);
+            j++;
         }
 
         return ans;
