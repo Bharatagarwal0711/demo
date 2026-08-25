@@ -115,6 +115,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Bharatagarwal0711/demo/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bharatagarwal0711/demo/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Bharatagarwal0711/demo/tree/master/1052-grumpy-bookstore-owner) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Bharatagarwal0711/demo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bharatagarwal0711/demo/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
@@ -199,6 +200,7 @@
 | [0053-maximum-subarray](https://github.com/Bharatagarwal0711/demo/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Bharatagarwal0711/demo/tree/master/0392-is-subsequence) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Bharatagarwal0711/demo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
 |  |
 | ------- |
@@ -229,6 +231,7 @@
 | [0567-permutation-in-string](https://github.com/Bharatagarwal0711/demo/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bharatagarwal0711/demo/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Bharatagarwal0711/demo/tree/master/1052-grumpy-bookstore-owner) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Bharatagarwal0711/demo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Union-Find
 |  |
 | ------- |
