@@ -118,6 +118,7 @@
 | [1052-grumpy-bookstore-owner](https://github.com/Bharatagarwal0711/demo/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Bharatagarwal0711/demo/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Bharatagarwal0711/demo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Bharatagarwal0711/demo/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bharatagarwal0711/demo/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
@@ -147,6 +148,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Bharatagarwal0711/demo/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bharatagarwal0711/demo/tree/master/1004-max-consecutive-ones-iii) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Bharatagarwal0711/demo/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Sorting
 |  |
 | ------- |
@@ -189,6 +191,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Bharatagarwal0711/demo/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Bharatagarwal0711/demo/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bharatagarwal0711/demo/tree/master/1004-max-consecutive-ones-iii) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Bharatagarwal0711/demo/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -238,6 +241,7 @@
 | [1052-grumpy-bookstore-owner](https://github.com/Bharatagarwal0711/demo/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Bharatagarwal0711/demo/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Bharatagarwal0711/demo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Bharatagarwal0711/demo/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Union-Find
 |  |
 | ------- |
