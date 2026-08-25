@@ -113,6 +113,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Bharatagarwal0711/demo/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/Bharatagarwal0711/demo/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bharatagarwal0711/demo/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Bharatagarwal0711/demo/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Bharatagarwal0711/demo/tree/master/1052-grumpy-bookstore-owner) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bharatagarwal0711/demo/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
@@ -141,6 +142,7 @@
 | [0278-first-bad-version](https://github.com/Bharatagarwal0711/demo/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Bharatagarwal0711/demo/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/Bharatagarwal0711/demo/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -181,6 +183,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Bharatagarwal0711/demo/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Bharatagarwal0711/demo/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Bharatagarwal0711/demo/tree/master/1004-max-consecutive-ones-iii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -224,6 +227,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Bharatagarwal0711/demo/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bharatagarwal0711/demo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Bharatagarwal0711/demo/tree/master/0567-permutation-in-string) |
+| [1004-max-consecutive-ones-iii](https://github.com/Bharatagarwal0711/demo/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Bharatagarwal0711/demo/tree/master/1052-grumpy-bookstore-owner) |
 ## Union-Find
 |  |
