@@ -10,7 +10,7 @@ public:
         while(j<n){
             sum += nums[j];
 
-            while(sum*(j-i+1LL) >= k){
+            while(sum * (j-i+1LL) >= k){
                 sum -= nums[i];
                 i++;
             }
