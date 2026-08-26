@@ -9,6 +9,7 @@ public:
         int j = k;
         int ans = count;
         int n = str.size();
+        
         for(int i=1;i<=n-k;i++){
 
             if(vowels.find(str[i-1]) != string::npos) count--;
