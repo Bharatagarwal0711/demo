@@ -10,22 +10,18 @@ public:
 
         while(j<n){
 
-            sum += nums[j];
-
-            if(st.find(nums[j]) != st.end()){
-                while(nums[i] != nums[j]){
-                    sum -= nums[i];
-                    st.erase(nums[i]);
-                    i++;
-                }
+            while(st.find(nums[j]) != st.end()) {
                 sum -= nums[i];
                 st.erase(nums[i]);
                 i++;
             }
 
             st.insert(nums[j]);
-            mx = max(sum,mx);
+            sum += nums[j];
+
+            mx = max(mx, sum);
             j++;
+
         }
 
         return mx;
