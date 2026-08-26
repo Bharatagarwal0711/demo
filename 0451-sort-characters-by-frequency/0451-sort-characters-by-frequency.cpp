@@ -11,11 +11,8 @@ public:
         string ans = "";
         while(!pq.empty()){
 
-            int x = pq.top().first;
-            while(x){
-                ans.push_back(pq.top().second);
-                x--;
-            }
+            auto [freq,ch] = pq.top();
+            while(freq--) ans.push_back(ch);
 
             pq.pop();
         }
