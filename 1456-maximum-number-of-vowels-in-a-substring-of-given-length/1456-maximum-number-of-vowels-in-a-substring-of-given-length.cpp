@@ -11,7 +11,6 @@ public:
         int ans = count;
         int n = str.size();
         for(int i=1;i<=n-k;i++){
-            if(j==n) break;
 
             if(vowels.find(str[i-1]) != vowels.end()) count--;
             if(vowels.find(str[j]) != vowels.end()) count++;
