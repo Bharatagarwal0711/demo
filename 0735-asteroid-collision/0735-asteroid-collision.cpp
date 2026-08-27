@@ -25,9 +25,8 @@ public:
 
                 else if(st.back() > abs(x)) i++;
 
-                else{
-                    while(!st.empty() && abs(x) > abs(st.back()) && st.back() > 0 ) st.pop_back();
-                }
+                else while(!st.empty() && abs(x) > abs(st.back()) && st.back() > 0 ) st.pop_back();
+                
             }
 
         }
