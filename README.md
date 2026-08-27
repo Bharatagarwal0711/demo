@@ -104,6 +104,7 @@
 | [0035-search-insert-position](https://github.com/Bharatagarwal0711/demo/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Bharatagarwal0711/demo/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/Bharatagarwal0711/demo/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Bharatagarwal0711/demo/tree/master/0066-plus-one) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Bharatagarwal0711/demo/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bharatagarwal0711/demo/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -179,6 +180,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Bharatagarwal0711/demo/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bharatagarwal0711/demo/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Bharatagarwal0711/demo/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bharatagarwal0711/demo/tree/master/0380-insert-delete-getrandom-o1) |
