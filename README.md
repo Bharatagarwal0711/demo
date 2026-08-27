@@ -118,6 +118,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Bharatagarwal0711/demo/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Bharatagarwal0711/demo/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Bharatagarwal0711/demo/tree/master/0713-subarray-product-less-than-k) |
+| [0735-asteroid-collision](https://github.com/Bharatagarwal0711/demo/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Bharatagarwal0711/demo/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/Bharatagarwal0711/demo/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Bharatagarwal0711/demo/tree/master/0904-fruit-into-baskets) |
@@ -193,6 +194,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bharatagarwal0711/demo/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bharatagarwal0711/demo/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0735-asteroid-collision](https://github.com/Bharatagarwal0711/demo/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Bharatagarwal0711/demo/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Bharatagarwal0711/demo/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
@@ -280,6 +282,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Bharatagarwal0711/demo/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Bharatagarwal0711/demo/tree/master/0844-backspace-string-compare) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bharatagarwal0711/demo/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Timsort
