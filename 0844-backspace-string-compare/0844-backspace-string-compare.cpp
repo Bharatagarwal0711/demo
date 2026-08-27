@@ -6,14 +6,14 @@ public:
 
         for(char ch: s){
 
-            if(ch == '#' && str1.size() == 0) continue;
+            if(ch == '#' && str1.empty()) continue;
             else if(ch == '#')  str1.pop_back();
             else str1.push_back(ch);
         }
 
         for(char ch: t){
 
-            if(ch == '#' && str2.size() == 0) continue;
+            if(ch == '#' && str2.empty()) continue;
             else if(ch == '#')  str2.pop_back();
             else str2.push_back(ch);
         }
