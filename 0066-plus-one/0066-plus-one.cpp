@@ -22,10 +22,10 @@ public:
             i--;
 
         }
+
         if(carry) ans.push_back(1);
 
         reverse(ans.begin(),ans.end());
-
         return ans;
     }
 };
