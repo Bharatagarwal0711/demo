@@ -77,6 +77,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Bharatagarwal0711/demo/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Bharatagarwal0711/demo/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/Bharatagarwal0711/demo/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/Bharatagarwal0711/demo/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bharatagarwal0711/demo/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -90,6 +91,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bharatagarwal0711/demo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Bharatagarwal0711/demo/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Bharatagarwal0711/demo/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/Bharatagarwal0711/demo/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Bharatagarwal0711/demo/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Bharatagarwal0711/demo/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Array
@@ -192,6 +194,7 @@
 | [0020-valid-parentheses](https://github.com/Bharatagarwal0711/demo/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bharatagarwal0711/demo/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/Bharatagarwal0711/demo/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/Bharatagarwal0711/demo/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -277,6 +280,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/Bharatagarwal0711/demo/tree/master/0844-backspace-string-compare) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bharatagarwal0711/demo/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Timsort
 |  |
