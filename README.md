@@ -89,6 +89,7 @@
 | [0290-word-pattern](https://github.com/Bharatagarwal0711/demo/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Bharatagarwal0711/demo/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Bharatagarwal0711/demo/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Bharatagarwal0711/demo/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Bharatagarwal0711/demo/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bharatagarwal0711/demo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Bharatagarwal0711/demo/tree/master/0451-sort-characters-by-frequency) |
@@ -146,6 +147,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bharatagarwal0711/demo/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Bharatagarwal0711/demo/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Bharatagarwal0711/demo/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bharatagarwal0711/demo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Bharatagarwal0711/demo/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Bharatagarwal0711/demo/tree/master/0560-subarray-sum-equals-k) |
@@ -172,6 +174,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Bharatagarwal0711/demo/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Bharatagarwal0711/demo/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Bharatagarwal0711/demo/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Bharatagarwal0711/demo/tree/master/0451-sort-characters-by-frequency) |
 | [0881-boats-to-save-people](https://github.com/Bharatagarwal0711/demo/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bharatagarwal0711/demo/tree/master/0977-squares-of-a-sorted-array) |
@@ -295,4 +298,8 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Bharatagarwal0711/demo/tree/master/0881-boats-to-save-people) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Bharatagarwal0711/demo/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
