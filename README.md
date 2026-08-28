@@ -91,6 +91,7 @@
 | [0383-ransom-note](https://github.com/Bharatagarwal0711/demo/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Bharatagarwal0711/demo/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Bharatagarwal0711/demo/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/Bharatagarwal0711/demo/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bharatagarwal0711/demo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Bharatagarwal0711/demo/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Bharatagarwal0711/demo/tree/master/0567-permutation-in-string) |
@@ -189,6 +190,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bharatagarwal0711/demo/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Bharatagarwal0711/demo/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bharatagarwal0711/demo/tree/master/0380-insert-delete-getrandom-o1) |
+| [0412-fizz-buzz](https://github.com/Bharatagarwal0711/demo/tree/master/0412-fizz-buzz) |
 ## Design
 |  |
 | ------- |
@@ -291,6 +293,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Bharatagarwal0711/demo/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/Bharatagarwal0711/demo/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Bharatagarwal0711/demo/tree/master/0844-backspace-string-compare) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bharatagarwal0711/demo/tree/master/3069-distribute-elements-into-two-arrays-i) |
