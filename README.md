@@ -99,6 +99,7 @@
 | [0567-permutation-in-string](https://github.com/Bharatagarwal0711/demo/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/Bharatagarwal0711/demo/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0680-valid-palindrome-ii) |
+| [0771-jewels-and-stones](https://github.com/Bharatagarwal0711/demo/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/Bharatagarwal0711/demo/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Bharatagarwal0711/demo/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Bharatagarwal0711/demo/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -159,6 +160,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Bharatagarwal0711/demo/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Bharatagarwal0711/demo/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Bharatagarwal0711/demo/tree/master/0567-permutation-in-string) |
+| [0771-jewels-and-stones](https://github.com/Bharatagarwal0711/demo/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Bharatagarwal0711/demo/tree/master/0904-fruit-into-baskets) |
 | [1695-maximum-erasure-value](https://github.com/Bharatagarwal0711/demo/tree/master/1695-maximum-erasure-value) |
 ## Binary Search
