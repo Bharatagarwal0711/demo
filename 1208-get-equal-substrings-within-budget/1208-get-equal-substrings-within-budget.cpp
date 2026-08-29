@@ -11,17 +11,15 @@ public:
         while(j<n){
 
             int val = abs(s[j]-t[j]);
+            sum += val;
 
-            if( (sum + val) <= maxCost ){
-                sum += val;
-            }
-            else{
-                sum += val;
+            if(sum >= maxCost ){
                 while(sum > maxCost && i<n){
                     sum -= abs(s[i]-t[i]);
                     i++;
                 }
             }
+            
             len = (j-i+1);
             j++;
 
