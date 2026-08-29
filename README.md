@@ -138,6 +138,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Bharatagarwal0711/demo/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Bharatagarwal0711/demo/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bharatagarwal0711/demo/tree/master/1004-max-consecutive-ones-iii) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Bharatagarwal0711/demo/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1052-grumpy-bookstore-owner](https://github.com/Bharatagarwal0711/demo/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Bharatagarwal0711/demo/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Bharatagarwal0711/demo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -252,6 +253,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Bharatagarwal0711/demo/tree/master/0881-boats-to-save-people) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Bharatagarwal0711/demo/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
