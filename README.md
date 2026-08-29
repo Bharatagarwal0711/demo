@@ -81,6 +81,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Bharatagarwal0711/demo/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/Bharatagarwal0711/demo/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/Bharatagarwal0711/demo/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bharatagarwal0711/demo/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Bharatagarwal0711/demo/tree/master/0986-interval-list-intersections) |
 ## String
@@ -135,6 +136,7 @@
 | [0739-daily-temperatures](https://github.com/Bharatagarwal0711/demo/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/Bharatagarwal0711/demo/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Bharatagarwal0711/demo/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/Bharatagarwal0711/demo/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bharatagarwal0711/demo/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Bharatagarwal0711/demo/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bharatagarwal0711/demo/tree/master/1004-max-consecutive-ones-iii) |
@@ -189,6 +191,7 @@
 | [0389-find-the-difference](https://github.com/Bharatagarwal0711/demo/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Bharatagarwal0711/demo/tree/master/0451-sort-characters-by-frequency) |
 | [0881-boats-to-save-people](https://github.com/Bharatagarwal0711/demo/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/Bharatagarwal0711/demo/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bharatagarwal0711/demo/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
 |  |
