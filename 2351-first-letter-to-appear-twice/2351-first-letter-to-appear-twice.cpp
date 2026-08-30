@@ -4,8 +4,11 @@ public:
         bool arr[26];
 
         for(char ch: s){
-            if(arr[ch-'a'] == true) return ch;
-            arr[ch-'a'] = 1;
+
+            int idx = ch-'a';
+
+            if(arr[idx] == true) return ch;
+            arr[idx] = 1;
         }
 
         return 'a';
