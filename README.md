@@ -107,6 +107,7 @@
 | [0981-time-based-key-value-store](https://github.com/Bharatagarwal0711/demo/tree/master/0981-time-based-key-value-store) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Bharatagarwal0711/demo/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Bharatagarwal0711/demo/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2351-first-letter-to-appear-twice](https://github.com/Bharatagarwal0711/demo/tree/master/2351-first-letter-to-appear-twice) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Bharatagarwal0711/demo/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Array
 |  |
@@ -171,6 +172,7 @@
 | [0904-fruit-into-baskets](https://github.com/Bharatagarwal0711/demo/tree/master/0904-fruit-into-baskets) |
 | [0981-time-based-key-value-store](https://github.com/Bharatagarwal0711/demo/tree/master/0981-time-based-key-value-store) |
 | [1695-maximum-erasure-value](https://github.com/Bharatagarwal0711/demo/tree/master/1695-maximum-erasure-value) |
+| [2351-first-letter-to-appear-twice](https://github.com/Bharatagarwal0711/demo/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
 |  |
 | ------- |
@@ -280,6 +282,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Bharatagarwal0711/demo/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Bharatagarwal0711/demo/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Bharatagarwal0711/demo/tree/master/0451-sort-characters-by-frequency) |
+| [2351-first-letter-to-appear-twice](https://github.com/Bharatagarwal0711/demo/tree/master/2351-first-letter-to-appear-twice) |
 ## Quickselect
 |  |
 | ------- |
@@ -330,6 +333,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Bharatagarwal0711/demo/tree/master/0389-find-the-difference) |
+| [2351-first-letter-to-appear-twice](https://github.com/Bharatagarwal0711/demo/tree/master/2351-first-letter-to-appear-twice) |
 ## Sweep Line
 |  |
 | ------- |
