@@ -12,16 +12,13 @@ public:
         
         int i = 0, j = 0, n = nums.size();
         int len = 0, mx = 0;
-
         int sum = 0;
 
         while(j < n){
 
             sum += nums[j];
 
-            while(sum > goal && i<n){
-                sum -= nums[i++];
-            }
+            while(sum > goal && i<n)  sum -= nums[i++];
 
             if(sum == goal) len = j-i+1;
 
