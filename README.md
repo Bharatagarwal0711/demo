@@ -104,6 +104,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/Bharatagarwal0711/demo/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/Bharatagarwal0711/demo/tree/master/0844-backspace-string-compare) |
+| [0981-time-based-key-value-store](https://github.com/Bharatagarwal0711/demo/tree/master/0981-time-based-key-value-store) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Bharatagarwal0711/demo/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Bharatagarwal0711/demo/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Bharatagarwal0711/demo/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -168,6 +169,7 @@
 | [0567-permutation-in-string](https://github.com/Bharatagarwal0711/demo/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Bharatagarwal0711/demo/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Bharatagarwal0711/demo/tree/master/0904-fruit-into-baskets) |
+| [0981-time-based-key-value-store](https://github.com/Bharatagarwal0711/demo/tree/master/0981-time-based-key-value-store) |
 | [1695-maximum-erasure-value](https://github.com/Bharatagarwal0711/demo/tree/master/1695-maximum-erasure-value) |
 ## Binary Search
 |  |
@@ -181,6 +183,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Bharatagarwal0711/demo/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Bharatagarwal0711/demo/tree/master/0713-subarray-product-less-than-k) |
+| [0981-time-based-key-value-store](https://github.com/Bharatagarwal0711/demo/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bharatagarwal0711/demo/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Bharatagarwal0711/demo/tree/master/1208-get-equal-substrings-within-budget) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Bharatagarwal0711/demo/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -211,6 +214,7 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bharatagarwal0711/demo/tree/master/0380-insert-delete-getrandom-o1) |
+| [0981-time-based-key-value-store](https://github.com/Bharatagarwal0711/demo/tree/master/0981-time-based-key-value-store) |
 ## Randomized
 |  |
 | ------- |
