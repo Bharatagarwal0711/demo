@@ -147,6 +147,7 @@
 | [1052-grumpy-bookstore-owner](https://github.com/Bharatagarwal0711/demo/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Bharatagarwal0711/demo/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Bharatagarwal0711/demo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bharatagarwal0711/demo/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/Bharatagarwal0711/demo/tree/master/1695-maximum-erasure-value) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Bharatagarwal0711/demo/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bharatagarwal0711/demo/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -171,6 +172,7 @@
 | [0771-jewels-and-stones](https://github.com/Bharatagarwal0711/demo/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Bharatagarwal0711/demo/tree/master/0904-fruit-into-baskets) |
 | [0981-time-based-key-value-store](https://github.com/Bharatagarwal0711/demo/tree/master/0981-time-based-key-value-store) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bharatagarwal0711/demo/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/Bharatagarwal0711/demo/tree/master/1695-maximum-erasure-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/Bharatagarwal0711/demo/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
@@ -188,6 +190,7 @@
 | [0981-time-based-key-value-store](https://github.com/Bharatagarwal0711/demo/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bharatagarwal0711/demo/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Bharatagarwal0711/demo/tree/master/1208-get-equal-substrings-within-budget) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bharatagarwal0711/demo/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Bharatagarwal0711/demo/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Sorting
 |  |
@@ -241,6 +244,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Bharatagarwal0711/demo/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bharatagarwal0711/demo/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Bharatagarwal0711/demo/tree/master/1208-get-equal-substrings-within-budget) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bharatagarwal0711/demo/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Bharatagarwal0711/demo/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Bracket Sequences
 |  |
@@ -303,6 +307,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Bharatagarwal0711/demo/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Bharatagarwal0711/demo/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Bharatagarwal0711/demo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bharatagarwal0711/demo/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/Bharatagarwal0711/demo/tree/master/1695-maximum-erasure-value) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Bharatagarwal0711/demo/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Union-Find
