@@ -21,7 +21,8 @@ public:
             }
 
             if(j == needle.size()) return idx;
-            else if(haystack[i] != needle[j] && flag){
+
+            else if(flag){
                 i = idx + 1;
                 j = 0;
             }
