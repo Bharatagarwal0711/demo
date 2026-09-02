@@ -69,6 +69,7 @@
 | [0011-container-with-most-water](https://github.com/Bharatagarwal0711/demo/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bharatagarwal0711/demo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Bharatagarwal0711/demo/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bharatagarwal0711/demo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bharatagarwal0711/demo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Bharatagarwal0711/demo/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Bharatagarwal0711/demo/tree/master/0283-move-zeroes) |
@@ -89,6 +90,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bharatagarwal0711/demo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Bharatagarwal0711/demo/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bharatagarwal0711/demo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Bharatagarwal0711/demo/tree/master/0058-length-of-last-word) |
 | [0290-word-pattern](https://github.com/Bharatagarwal0711/demo/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Bharatagarwal0711/demo/tree/master/0344-reverse-string) |
@@ -343,4 +345,20 @@
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Bharatagarwal0711/demo/tree/master/0986-interval-list-intersections) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bharatagarwal0711/demo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bharatagarwal0711/demo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bharatagarwal0711/demo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bharatagarwal0711/demo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
