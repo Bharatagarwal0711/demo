@@ -7,7 +7,7 @@ public:
 
         vector<pair<int,string>> arr;
 
-        for(auto key : mp) arr.emplace_back(-key.second,key.first);
+        for(auto &key : mp) arr.emplace_back(-key.second,key.first);
 
         sort(arr.begin(),arr.end());
 
@@ -16,8 +16,6 @@ public:
         for(int i=0;i<k;i++) ans.push_back(arr[i].second);
 
         return ans;
-
-        
         
     }
 };
