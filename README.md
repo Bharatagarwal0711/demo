@@ -100,6 +100,7 @@
 | [0383-ransom-note](https://github.com/Bharatagarwal0711/demo/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Bharatagarwal0711/demo/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Bharatagarwal0711/demo/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/Bharatagarwal0711/demo/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/Bharatagarwal0711/demo/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bharatagarwal0711/demo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Bharatagarwal0711/demo/tree/master/0451-sort-characters-by-frequency) |
@@ -237,12 +238,14 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bharatagarwal0711/demo/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bharatagarwal0711/demo/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0402-remove-k-digits](https://github.com/Bharatagarwal0711/demo/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/Bharatagarwal0711/demo/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Bharatagarwal0711/demo/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Bharatagarwal0711/demo/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Bharatagarwal0711/demo/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Bharatagarwal0711/demo/tree/master/0739-daily-temperatures) |
 ## Prefix Sum
 |  |
@@ -275,6 +278,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bharatagarwal0711/demo/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/Bharatagarwal0711/demo/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Bharatagarwal0711/demo/tree/master/0881-boats-to-save-people) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Bharatagarwal0711/demo/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
