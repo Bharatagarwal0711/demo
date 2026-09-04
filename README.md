@@ -106,6 +106,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bharatagarwal0711/demo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Bharatagarwal0711/demo/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Bharatagarwal0711/demo/tree/master/0567-permutation-in-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Bharatagarwal0711/demo/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/Bharatagarwal0711/demo/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Bharatagarwal0711/demo/tree/master/0692-top-k-frequent-words) |
@@ -141,6 +142,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Bharatagarwal0711/demo/tree/master/0380-insert-delete-getrandom-o1) |
 | [0506-relative-ranks](https://github.com/Bharatagarwal0711/demo/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/Bharatagarwal0711/demo/tree/master/0560-subarray-sum-equals-k) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Bharatagarwal0711/demo/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Bharatagarwal0711/demo/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Bharatagarwal0711/demo/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Bharatagarwal0711/demo/tree/master/0692-top-k-frequent-words) |
@@ -180,6 +182,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Bharatagarwal0711/demo/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Bharatagarwal0711/demo/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Bharatagarwal0711/demo/tree/master/0567-permutation-in-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Bharatagarwal0711/demo/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/Bharatagarwal0711/demo/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/Bharatagarwal0711/demo/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Bharatagarwal0711/demo/tree/master/0904-fruit-into-baskets) |
