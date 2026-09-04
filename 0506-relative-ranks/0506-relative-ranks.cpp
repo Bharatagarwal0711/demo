@@ -13,33 +13,20 @@ public:
 
         vector<string> ans(score.size());
 
-        if(pq.size()){
+        int rank = 1;
 
-            int idx = mp[pq.top()];
-            ans[idx] = "Gold Medal";
-            pq.pop();
-        }
-
-        if(pq.size()){
-
-            int idx = mp[pq.top()];
-            ans[idx] = "Silver Medal";
-            pq.pop();
-        }
-        if(pq.size()){
-
-            int idx = mp[pq.top()];
-            ans[idx] = "Bronze Medal";
-            pq.pop();
-        }
-        i = 4;
         while(pq.size()){
-
+            
             int idx = mp[pq.top()];
+            
+            if(rank == 1) ans[idx] = "Gold Medal";
+            else if(rank == 2) ans[idx] = "Silver Medal";
+            else if(rank == 3) ans[idx] = "Bronze Medal";
+            else ans[idx] = to_string(rank);
 
-            ans[idx] += to_string(i);
-            i++;
             pq.pop();
+            rank++;
+
         }
 
         return ans;
