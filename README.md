@@ -139,6 +139,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Bharatagarwal0711/demo/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bharatagarwal0711/demo/tree/master/0380-insert-delete-getrandom-o1) |
+| [0506-relative-ranks](https://github.com/Bharatagarwal0711/demo/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/Bharatagarwal0711/demo/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Bharatagarwal0711/demo/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Bharatagarwal0711/demo/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -213,6 +214,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Bharatagarwal0711/demo/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Bharatagarwal0711/demo/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/Bharatagarwal0711/demo/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/Bharatagarwal0711/demo/tree/master/0692-top-k-frequent-words) |
 | [0881-boats-to-save-people](https://github.com/Bharatagarwal0711/demo/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Bharatagarwal0711/demo/tree/master/0905-sort-array-by-parity) |
@@ -296,6 +298,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Bharatagarwal0711/demo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Bharatagarwal0711/demo/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Bharatagarwal0711/demo/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/Bharatagarwal0711/demo/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/Bharatagarwal0711/demo/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Bharatagarwal0711/demo/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Bucket Sort
