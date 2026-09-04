@@ -2,13 +2,11 @@ class Solution {
 public:
     vector<string> findRelativeRanks(vector<int>& score) {
 
-        priority_queue<int> pq;
-        unordered_map<int,int> mp;
+        priority_queue<pair<int,int>> pq;
 
         int i = 0;
         for(int ele: score){
-            mp[ele] = i++;
-            pq.push(ele);
+            pq.emplace(ele,i++);
         }
 
         vector<string> ans(score.size());
@@ -16,8 +14,8 @@ public:
         int rank = 1;
 
         while(pq.size()){
-            
-            int idx = mp[pq.top()];
+
+            int idx = pq.top().second;
             
             if(rank == 1) ans[idx] = "Gold Medal";
             else if(rank == 2) ans[idx] = "Silver Medal";
