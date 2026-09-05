@@ -208,6 +208,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Bharatagarwal0711/demo/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Bharatagarwal0711/demo/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/Bharatagarwal0711/demo/tree/master/0441-arranging-coins) |
 | [0713-subarray-product-less-than-k](https://github.com/Bharatagarwal0711/demo/tree/master/0713-subarray-product-less-than-k) |
 | [0981-time-based-key-value-store](https://github.com/Bharatagarwal0711/demo/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bharatagarwal0711/demo/tree/master/1004-max-consecutive-ones-iii) |
@@ -244,6 +245,7 @@
 | [0342-power-of-four](https://github.com/Bharatagarwal0711/demo/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bharatagarwal0711/demo/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/Bharatagarwal0711/demo/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/Bharatagarwal0711/demo/tree/master/0441-arranging-coins) |
 ## Design
 |  |
 | ------- |
