@@ -143,6 +143,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Bharatagarwal0711/demo/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bharatagarwal0711/demo/tree/master/0380-insert-delete-getrandom-o1) |
+| [0414-third-maximum-number](https://github.com/Bharatagarwal0711/demo/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/Bharatagarwal0711/demo/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/Bharatagarwal0711/demo/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Bharatagarwal0711/demo/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -220,6 +221,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Bharatagarwal0711/demo/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bharatagarwal0711/demo/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Bharatagarwal0711/demo/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/Bharatagarwal0711/demo/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Bharatagarwal0711/demo/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Bharatagarwal0711/demo/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/Bharatagarwal0711/demo/tree/master/0692-top-k-frequent-words) |
