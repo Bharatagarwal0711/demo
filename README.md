@@ -237,6 +237,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bharatagarwal0711/demo/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Bharatagarwal0711/demo/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Bharatagarwal0711/demo/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/Bharatagarwal0711/demo/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bharatagarwal0711/demo/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/Bharatagarwal0711/demo/tree/master/0412-fizz-buzz) |
 ## Design
@@ -422,4 +423,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Bharatagarwal0711/demo/tree/master/0258-add-digits) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Bharatagarwal0711/demo/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
