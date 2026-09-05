@@ -104,6 +104,7 @@
 | [0402-remove-k-digits](https://github.com/Bharatagarwal0711/demo/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Bharatagarwal0711/demo/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Bharatagarwal0711/demo/tree/master/0412-fizz-buzz) |
+| [0434-number-of-segments-in-a-string](https://github.com/Bharatagarwal0711/demo/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bharatagarwal0711/demo/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Bharatagarwal0711/demo/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Bharatagarwal0711/demo/tree/master/0567-permutation-in-string) |
