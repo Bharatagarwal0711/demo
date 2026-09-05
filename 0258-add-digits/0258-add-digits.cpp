@@ -3,10 +3,9 @@ public:
     int addDigits(int num) {
         if(num < 10) return num;
 
-        int sum = 10;
+        int sum = 0;
 
-        while(sum > 9){
-
+        do{
             sum = 0;
             
             while(num){
@@ -16,7 +15,7 @@ public:
 
             num = sum;
 
-        }
+        } while(sum > 9);
 
         return sum;
     }
