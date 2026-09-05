@@ -236,6 +236,7 @@
 | [0066-plus-one](https://github.com/Bharatagarwal0711/demo/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bharatagarwal0711/demo/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Bharatagarwal0711/demo/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Bharatagarwal0711/demo/tree/master/0258-add-digits) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bharatagarwal0711/demo/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/Bharatagarwal0711/demo/tree/master/0412-fizz-buzz) |
 ## Design
@@ -362,6 +363,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Bharatagarwal0711/demo/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Bharatagarwal0711/demo/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Bharatagarwal0711/demo/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/Bharatagarwal0711/demo/tree/master/0735-asteroid-collision) |
@@ -416,4 +418,8 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Bharatagarwal0711/demo/tree/master/0703-kth-largest-element-in-a-stream) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Bharatagarwal0711/demo/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
