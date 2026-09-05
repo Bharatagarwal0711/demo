@@ -238,6 +238,7 @@
 | [0202-happy-number](https://github.com/Bharatagarwal0711/demo/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Bharatagarwal0711/demo/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Bharatagarwal0711/demo/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Bharatagarwal0711/demo/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bharatagarwal0711/demo/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/Bharatagarwal0711/demo/tree/master/0412-fizz-buzz) |
 ## Design
@@ -377,6 +378,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Bharatagarwal0711/demo/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Bharatagarwal0711/demo/tree/master/0389-find-the-difference) |
 | [2351-first-letter-to-appear-twice](https://github.com/Bharatagarwal0711/demo/tree/master/2351-first-letter-to-appear-twice) |
 ## Sweep Line
@@ -427,4 +429,5 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Bharatagarwal0711/demo/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Bharatagarwal0711/demo/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
