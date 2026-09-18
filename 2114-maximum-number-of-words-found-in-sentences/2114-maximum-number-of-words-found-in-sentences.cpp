@@ -3,15 +3,14 @@ public:
     int mostWordsFound(vector<string>& sentences) {
 
         int mx = 0;
-        for(string str: sentences){
+        for(int i=0;i<sentences.size();i++){
+            int word = 0;
 
-            int count = 0;
-            stringstream ss(str);
-            string word;
+            for(int j=0;j<sentences[i].size();j++){
+                if(sentences[i][j] == ' ') word++;
+            }
 
-            while(ss >> word) count++;
-
-            mx = max(count,mx);
+            mx = max(mx,word+1);
         }
 
         return mx;
