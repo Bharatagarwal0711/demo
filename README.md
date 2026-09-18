@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/Bharatagarwal0711/demo/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Bharatagarwal0711/demo/tree/master/0594-longest-harmonious-subsequence) |
+| [1603-design-parking-system](https://github.com/Bharatagarwal0711/demo/tree/master/1603-design-parking-system) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Bharatagarwal0711/demo/tree/master/0594-longest-harmonious-subsequence) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Bharatagarwal0711/demo/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Bharatagarwal0711/demo/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
