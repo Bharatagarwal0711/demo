@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Bharatagarwal0711/demo/tree/master/0594-longest-harmonious-subsequence) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bharatagarwal0711/demo/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Bharatagarwal0711/demo/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1470-shuffle-the-array](https://github.com/Bharatagarwal0711/demo/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/Bharatagarwal0711/demo/tree/master/1672-richest-customer-wealth) |
 ## Greedy
 |  |
