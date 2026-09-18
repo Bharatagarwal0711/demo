@@ -2,15 +2,12 @@ class ParkingSystem {
 public:
     vector<int> arr;
     ParkingSystem(int big, int medium, int small) {
-        arr.resize(4);
-        arr[1] = big;
-        arr[2] = medium;
-        arr[3] = small;
+        arr = {big,medium,small};
     }
     
     bool addCar(int carType) {
-        if(arr[carType]){
-            arr[carType]--;
+        if(arr[carType-1]){
+            arr[carType-1]--;
             return true;
         }
         return false;
