@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0551-student-attendance-record-i](https://github.com/Bharatagarwal0711/demo/tree/master/0551-student-attendance-record-i) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Bharatagarwal0711/demo/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Array
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Bharatagarwal0711/demo/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Bharatagarwal0711/demo/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Bharatagarwal0711/demo/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Bharatagarwal0711/demo/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Greedy
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-design-parking-system](https://github.com/Bharatagarwal0711/demo/tree/master/1603-design-parking-system) |
 | [1920-build-array-from-permutation](https://github.com/Bharatagarwal0711/demo/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Bharatagarwal0711/demo/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Bharatagarwal0711/demo/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Matrix
 |  |
 | ------- |
