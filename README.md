@@ -61,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Bharatagarwal0711/demo/tree/master/1672-richest-customer-wealth) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/Bharatagarwal0711/demo/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
