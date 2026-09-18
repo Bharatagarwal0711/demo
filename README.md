@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Bharatagarwal0711/demo/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/Bharatagarwal0711/demo/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Bharatagarwal0711/demo/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Bharatagarwal0711/demo/tree/master/1929-concatenation-of-array) |
 ## Greedy
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1603-design-parking-system](https://github.com/Bharatagarwal0711/demo/tree/master/1603-design-parking-system) |
 | [1920-build-array-from-permutation](https://github.com/Bharatagarwal0711/demo/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Bharatagarwal0711/demo/tree/master/1929-concatenation-of-array) |
 ## Matrix
 |  |
 | ------- |
