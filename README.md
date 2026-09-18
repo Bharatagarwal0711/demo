@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0551-student-attendance-record-i](https://github.com/Bharatagarwal0711/demo/tree/master/0551-student-attendance-record-i) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Bharatagarwal0711/demo/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Bharatagarwal0711/demo/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Array
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Bharatagarwal0711/demo/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Bharatagarwal0711/demo/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Bharatagarwal0711/demo/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Bharatagarwal0711/demo/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Greedy
 |  |
 | ------- |
