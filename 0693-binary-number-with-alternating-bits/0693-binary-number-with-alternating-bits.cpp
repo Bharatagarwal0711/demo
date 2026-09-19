@@ -2,14 +2,17 @@ class Solution {
 public:
     bool hasAlternatingBits(int n) {
 
-        string str = "";
+        int prev = -1;
 
         while(n){
-            str.push_back(n%2);
+
+            int last = n % 2;
+
+            if(prev == last) return false;
+            prev = last;
+
             n /= 2;
         }
-        
-        for(int i=1;i<str.size();i++) if(str[i] == str[i-1]) return false;
         
         return true;
     }
