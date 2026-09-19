@@ -73,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Bharatagarwal0711/demo/tree/master/0171-excel-sheet-column-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bharatagarwal0711/demo/tree/master/0628-maximum-product-of-three-numbers) |
 | [2235-add-two-integers](https://github.com/Bharatagarwal0711/demo/tree/master/2235-add-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0693-binary-number-with-alternating-bits](https://github.com/Bharatagarwal0711/demo/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
