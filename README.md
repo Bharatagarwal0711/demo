@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Bharatagarwal0711/demo/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Bharatagarwal0711/demo/tree/master/0171-excel-sheet-column-number) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/Bharatagarwal0711/demo/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/Bharatagarwal0711/demo/tree/master/0551-student-attendance-record-i) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Bharatagarwal0711/demo/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Bharatagarwal0711/demo/tree/master/2114-maximum-number-of-words-found-in-sentences) |
