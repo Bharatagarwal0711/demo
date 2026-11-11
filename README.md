@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Bharatagarwal0711/demo/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Bharatagarwal0711/demo/tree/master/0171-excel-sheet-column-number) |
+| [0441-arranging-coins](https://github.com/Bharatagarwal0711/demo/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bharatagarwal0711/demo/tree/master/0628-maximum-product-of-three-numbers) |
 | [2235-add-two-integers](https://github.com/Bharatagarwal0711/demo/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Bharatagarwal0711/demo/tree/master/0796-rotate-string) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/Bharatagarwal0711/demo/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
